@@ -1,14 +1,18 @@
-# Brewery Recommendation
+# 한잔 하시죠 ~ 🍶
 
-이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
+술 드시고 싶으신가요 ? 🍺 <br>
+오늘의 브루어리를 추천해드려요 😵
 
 ## 현재 추천 브루어리
-> 브루어리 이름: UTOG Brewing Company
+> 브루어리 이름: UTOG Brewing Company 
+<br>
 유형: brewpub
+<br>
 주소: 2331 Grant Ave, Ogden, Utah
+<br>
 웹사이트: http://www.utogbrewing.com
+<br>
+<hr>
 
 ⏳ 업데이트 시간: 2025-02-06 16:34:54 (UTC)
 
----
-자동 업데이트 봇에 의해 관리됩니다.
