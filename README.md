@@ -4,13 +4,13 @@
 오늘의 브루어리를 추천해드려요 😵
 
 ## 현재 추천 브루어리
-> 브루어리 이름: UTOG Brewing Company 
+> **오늘의 브루어리**: UTOG Brewing Company 
 <br>
-유형: brewpub
+🏠유형: brewpub
 <br>
-주소: 2331 Grant Ave, Ogden, Utah
+📍주소: 2331 Grant Ave, Ogden, Utah
 <br>
-웹사이트: http://www.utogbrewing.com
+📝웹사이트: http://www.utogbrewing.com
 <br>
 <hr>
 
