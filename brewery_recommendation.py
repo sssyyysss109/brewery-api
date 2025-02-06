@@ -45,7 +45,7 @@ def update_readme():
 """
 
     with open(README_PATH, "w", encoding="utf-8") as file:
-        file.write(readme_content)
+        file.write(readme_content.strip())
 
 if __name__ == "__main__":
     update_readme()
