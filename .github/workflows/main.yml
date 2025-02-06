@@ -20,7 +20,7 @@ jobs:
       - name: Open Brewery DB API로 브루어리 추천 업데이트
         run: |
           pip install requests python-dotenv
-          python update_brewery.py
+          python brewery_recommendation.py
         #env:
           # 필요한 API 키가 있다면 여기에 추가
           # OPENBREWERY_API_KEY: ${{ secrets.OPENBREWERY_API_KEY }}
