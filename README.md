@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: 10 Barrel Brewing Co
-유형: large
-주소: 1411 NW Flanders St, Portland, Oregon
-웹사이트: http://www.10barrel.com
+> 브루어리 이름: Ogres Brewing
+유형: micro
+주소: 7693 Cultus Bay Rd Ste 1, Clinton, Washington
+웹사이트: http://www.ogresbrewing.com
 
-⏳ 업데이트 시간: 2025-04-28 01:48:56 (UTC)
+⏳ 업데이트 시간: 2025-04-29 01:46:53 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
