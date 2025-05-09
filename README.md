@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: Ramblin Reds Brewing Company
-유형: brewpub
-주소: 1493 N Shoop Ave Unit A, Wauseon, Ohio
-웹사이트: http://www.northriverbrewingco.com
+> 브루어리 이름: River Bend Brewing
+유형: closed
+주소: 113 River Bend Rd, Hailey, Idaho
+웹사이트: None
 
-⏳ 업데이트 시간: 2025-05-08 01:48:48 (UTC)
+⏳ 업데이트 시간: 2025-05-09 01:48:06 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
