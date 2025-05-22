@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: Timberyard Brewing Co.
-유형: planning
-주소: None, East Brookfield, Massachusetts
-웹사이트: http://timberyardbrewing.com
+> 브루어리 이름: Iron Duke Brewing Co
+유형: micro
+주소: 100 State St Ste 122, Ludlow, Massachusetts
+웹사이트: http://www.irondukebrewing.com
 
-⏳ 업데이트 시간: 2025-05-21 01:49:53 (UTC)
+⏳ 업데이트 시간: 2025-05-22 01:49:05 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
