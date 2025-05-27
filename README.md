@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: Monkey Town Brewing Company
-유형: brewpub
-주소: 287 1st Ave, Dayton, Tennessee
-웹사이트: http://www.monkeytownbrewing.com
+> 브루어리 이름: Red Brick Brewing Co / Atlanta Brewing Co
+유형: micro
+주소: 2323 Defoor Hills Rd NW, Atlanta, Georgia
+웹사이트: http://www.atlantabrewing.com
 
-⏳ 업데이트 시간: 2025-05-26 01:53:02 (UTC)
+⏳ 업데이트 시간: 2025-05-27 01:48:24 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
