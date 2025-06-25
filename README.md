@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: Fayetteville Brewing Company
-유형: planning
-주소: None, Fayetteville, Arkansas
-웹사이트: http://www.fayettebrew.com
+> 브루어리 이름: Catawba Brewing Co - Charlotte
+유형: micro
+주소: 933 Louise Ave Ste 105, Charlotte, North Carolina
+웹사이트: None
 
-⏳ 업데이트 시간: 2025-06-24 01:54:09 (UTC)
+⏳ 업데이트 시간: 2025-06-25 01:54:18 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
