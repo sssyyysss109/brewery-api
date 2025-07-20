@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: Tightknit Brewing Co
-유형: brewpub
-주소: 813 8th St, Greeley, Colorado
-웹사이트: http://tightknitbrewing.com/
+> 브루어리 이름: 5x5 Brewing Co.
+유형: planning
+주소: None, Mission, Texas
+웹사이트: http://www.5x5brewing.com
 
-⏳ 업데이트 시간: 2025-07-19 01:55:45 (UTC)
+⏳ 업데이트 시간: 2025-07-20 02:08:57 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
