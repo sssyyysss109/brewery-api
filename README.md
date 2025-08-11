@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: Cinderlands Beer Co.
-유형: brewpub
-주소: 3705 Butler St, Pittsburgh, Pennsylvania
-웹사이트: http://www.cinderlands.com
+> 브루어리 이름: Gravel Bottom Craft Brewery
+유형: micro
+주소: 452 Ada Dr SE, Ada, Michigan
+웹사이트: http://www.gravelbottom.com
 
-⏳ 업데이트 시간: 2025-08-10 02:07:55 (UTC)
+⏳ 업데이트 시간: 2025-08-11 02:04:09 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
