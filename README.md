@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: Sole Track Brewing
-유형: brewpub
-주소: 27 Main St, Rumney, New Hampshire
-웹사이트: https://www.soletrackbrewing.com/
+> 브루어리 이름: Hubs
+유형: bar
+주소: 889 East Coast Road, Singapore, Singapore
+웹사이트: https://hubs.sg/
 
-⏳ 업데이트 시간: 2025-08-25 01:51:18 (UTC)
+⏳ 업데이트 시간: 2025-08-26 01:47:36 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
