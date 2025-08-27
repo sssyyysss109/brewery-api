@@ -3,12 +3,12 @@
 이 리포지토리는 Open Brewery DB API를 사용하여 무작위 브루어리 정보를 자동으로 업데이트합니다.
 
 ## 현재 추천 브루어리
-> 브루어리 이름: Hubs
-유형: bar
-주소: 889 East Coast Road, Singapore, Singapore
-웹사이트: https://hubs.sg/
+> 브루어리 이름: Indian Joe Brewing
+유형: micro
+주소: 2123 Industrial Ct, Vista, California
+웹사이트: http://www.indianjoebrewing.com
 
-⏳ 업데이트 시간: 2025-08-26 01:47:36 (UTC)
+⏳ 업데이트 시간: 2025-08-27 01:44:15 (UTC)
 
 ---
 자동 업데이트 봇에 의해 관리됩니다.
