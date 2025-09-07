@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Southerleigh Brewing |
+| **브루어리 이름** | Toy Soldier |
 | **유형** | brewpub |
-| **주소** | 136 E Grayson St., Ste 120, San Antonio, Texas |
-| **웹사이트** | http://www.southerleigh.com |
+| **주소** | 52 Belden Pl, San Francisco, California |
+| **웹사이트** | http://www.toysoldiersf.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-06 01:37:55 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-07 01:46:31 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
