@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Toy Soldier |
-| **유형** | brewpub |
-| **주소** | 52 Belden Pl, San Francisco, California |
-| **웹사이트** | http://www.toysoldiersf.com |
+| **브루어리 이름** | Four Corners Brewing Co |
+| **유형** | micro |
+| **주소** | 423 Singleton Blvd, Dallas, Texas |
+| **웹사이트** | http://www.fcbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-07 01:46:31 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-08 01:45:58 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
