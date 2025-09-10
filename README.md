@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Under The Radar Brewery |
-| **유형** | micro |
-| **주소** | 1506 Truxillo St, Houston, Texas |
-| **웹사이트** | http://www.undertheradarbrewery.com |
+| **브루어리 이름** | Timnath Beerwerks |
+| **유형** | planning |
+| **주소** | None, Timnath, Colorado |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-09 01:42:31 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-10 01:39:30 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
