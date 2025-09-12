@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Boneshire Brew Works |
+| **브루어리 이름** | SaltFire Brewing Co. |
 | **유형** | micro |
-| **주소** | 7462 Derry St, Harrisburg, Pennsylvania |
-| **웹사이트** | http://www.boneshire.com |
+| **주소** | 2199 S West Temple, Salt Lake City, Utah |
+| **웹사이트** | https://www.saltfirebrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-11 01:41:47 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-12 01:37:59 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
