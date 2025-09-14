@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | New Barons Brewing Cooperative |
-| **유형** | planning |
-| **주소** | None, Milwaukee, Wisconsin |
-| **웹사이트** | http://www.newbaronsbrewing.com |
+| **브루어리 이름** | Belching Beaver Brewery Vista |
+| **유형** | micro |
+| **주소** | 980 Park Center Dr Ste A, Vista, California |
+| **웹사이트** | http://www.belchingbeaver.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-13 01:26:45 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-14 01:45:52 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
