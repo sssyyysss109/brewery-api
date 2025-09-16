@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Acopon Brewing Co |
+| **브루어리 이름** | The Hold By Revelry Brewing |
 | **유형** | micro |
-| **주소** | 211 W Mercer St, Dripping Springs, Texas |
-| **웹사이트** | http://www.acoponbrewing.com |
+| **주소** | 36 Romney St, Charleston, South Carolina |
+| **웹사이트** | http://www.revelrybrewingco.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-15 01:47:15 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-16 01:39:03 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
