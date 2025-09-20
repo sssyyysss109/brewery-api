@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Utepils Brewing Co |
-| **유형** | micro |
-| **주소** | 225 Thomas Ave N Apt 700, Minneapolis, Minnesota |
-| **웹사이트** | http://www.utepilsbrewing.com |
+| **브루어리 이름** | Bath Brewing Company |
+| **유형** | brewpub |
+| **주소** | 141 Front St, Bath, Maine |
+| **웹사이트** | http://www.bathbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-19 01:41:46 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-20 01:37:20 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
