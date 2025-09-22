@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | CHILLAX Brewing Company LLC |
-| **유형** | planning |
-| **주소** | None, Milford, Michigan |
+| **브루어리 이름** | Desert Barn Brewing Co. |
+| **유형** | brewpub |
+| **주소** | 11352 Hesperia Rd Ste B, Hesperia, California |
 | **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-21 01:48:45 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-22 01:48:51 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
