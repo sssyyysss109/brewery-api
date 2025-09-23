@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Desert Barn Brewing Co. |
-| **유형** | brewpub |
-| **주소** | 11352 Hesperia Rd Ste B, Hesperia, California |
-| **웹사이트** | None |
+| **브루어리 이름** | Hopworks Urban Brewery |
+| **유형** | micro |
+| **주소** | 2944 SE Powell Blvd, Portland, Oregon |
+| **웹사이트** | http://www.hopworksbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-22 01:48:51 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-23 01:39:40 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
