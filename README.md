@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Hopworks Urban Brewery |
-| **유형** | micro |
-| **주소** | 2944 SE Powell Blvd, Portland, Oregon |
-| **웹사이트** | http://www.hopworksbeer.com |
+| **브루어리 이름** | Starr Hill Brewery LLC |
+| **유형** | regional |
+| **주소** | 5391 Three Notch D Rd, Crozet, Virginia |
+| **웹사이트** | http://www.starrhill.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-23 01:39:40 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-24 01:41:03 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
