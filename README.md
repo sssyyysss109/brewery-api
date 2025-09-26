@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lake Louie Brewing Co |
+| **브루어리 이름** | Mother Road Brewing Co |
 | **유형** | micro |
-| **주소** | 7556 Pine Rd, Arena, Wisconsin |
-| **웹사이트** | http://www.lakelouie.com |
+| **주소** | 7 S Mikes Pike, Flagstaff, Arizona |
+| **웹사이트** | http://www.motherroadbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-25 01:41:42 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-26 01:41:07 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
