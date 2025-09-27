@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Mother Road Brewing Co |
+| **브루어리 이름** | The Redding Beer Company |
 | **유형** | micro |
-| **주소** | 7 S Mikes Pike, Flagstaff, Arizona |
-| **웹사이트** | http://www.motherroadbeer.com |
+| **주소** | 7 Main St, Redding, Connecticut |
+| **웹사이트** | http://www.reddingbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-26 01:41:07 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-27 01:36:54 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
