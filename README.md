@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | The Redding Beer Company |
+| **브루어리 이름** | Saints Row Brewing |
 | **유형** | micro |
-| **주소** | 7 Main St, Redding, Connecticut |
-| **웹사이트** | http://www.reddingbeer.com |
+| **주소** | 1211 Taft St, Rockville, Maryland |
+| **웹사이트** | http://www.saintsrowbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-27 01:36:54 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-28 01:49:33 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
