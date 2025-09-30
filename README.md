@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Tacoma Brewing Co. |
-| **유형** | micro |
-| **주소** | 1116 Court E, Tacoma, Washington |
-| **웹사이트** | http://www.tacomabrewing.com |
+| **브루어리 이름** | Mechanistic Brewing |
+| **유형** | planning |
+| **주소** | None, Clarion, Pennsylvania |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-09-29 01:43:59 (UTC)`  
+⏳ **업데이트 시간**: `2025-09-30 01:38:46 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
