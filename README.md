@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Quilbilly's Restaurant and Taproom |
-| **유형** | brewpub |
-| **주소** | 294793 US Highway 101, Quilcene, Washington |
-| **웹사이트** | https://www.quilbillys.com |
+| **브루어리 이름** | Brauerei Forst |
+| **유형** | large |
+| **주소** | Via Venosta 10, Lagundo, Bolzano |
+| **웹사이트** | https://www.forst.it/ |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-03 01:39:00 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-04 01:36:06 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
