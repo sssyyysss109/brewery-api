@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | More Brewing Co |
-| **유형** | brewpub |
-| **주소** | 126 S Villa Ave, Villa Park, Illinois |
-| **웹사이트** | http://Www.morebrewing.com |
+| **브루어리 이름** | 4 Hands Brewing Co |
+| **유형** | regional |
+| **주소** | 1220 S 8th St, Saint Louis, Missouri |
+| **웹사이트** | http://www.4handsbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-05 01:48:41 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-06 01:42:10 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
