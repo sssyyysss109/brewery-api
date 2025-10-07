@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | 4 Hands Brewing Co |
-| **유형** | regional |
-| **주소** | 1220 S 8th St, Saint Louis, Missouri |
-| **웹사이트** | http://www.4handsbrewery.com |
+| **브루어리 이름** | Uncle Ernies Bayfront Grill & Brew House |
+| **유형** | contract |
+| **주소** | 1151 Bayview Ave, Panama City, Florida |
+| **웹사이트** | http://uncleerniesbayfrontgrill.com/welcome/ |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-06 01:42:10 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-07 01:40:09 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
