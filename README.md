@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Great Heights Brewing Company |
+| **브루어리 이름** | Big Sexy Brewing Company |
 | **유형** | micro |
-| **주소** | 938 Wakefield Dr, Houston, Texas |
-| **웹사이트** | http://www.greatheightsbrewing.com |
+| **주소** | 5861 88th St Ste 800, Sacramento, California |
+| **웹사이트** | http://www.bigsexybrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-09 01:41:07 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-10 01:41:35 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
