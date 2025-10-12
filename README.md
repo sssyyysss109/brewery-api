@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Rek-Lis Brewing Company |
+| **브루어리 이름** | Fainting Goat Brewing Company |
 | **유형** | micro |
-| **주소** | 2085 Main Street, Bethlehem, New Hampshire |
-| **웹사이트** | http://tbd |
+| **주소** | 330 S Main St, Fuquay Varina, North Carolina |
+| **웹사이트** | http://www.faintinggoatbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-11 01:37:23 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-12 01:44:51 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
