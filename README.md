@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Fainting Goat Brewing Company |
+| **브루어리 이름** | Hopshire Farm and Brewery |
 | **유형** | micro |
-| **주소** | 330 S Main St, Fuquay Varina, North Carolina |
-| **웹사이트** | http://www.faintinggoatbeer.com |
+| **주소** | 1771 Dryden Rd, Freeville, New York |
+| **웹사이트** | http://www.hopshire.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-12 01:44:51 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-13 01:48:01 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
