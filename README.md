@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Hopshire Farm and Brewery |
-| **유형** | micro |
-| **주소** | 1771 Dryden Rd, Freeville, New York |
-| **웹사이트** | http://www.hopshire.com |
+| **브루어리 이름** | Greenpoint Beer |
+| **유형** | brewpub |
+| **주소** | 7 N 15th St, Brooklyn, New York |
+| **웹사이트** | http://www.greenpointbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-13 01:48:01 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-14 01:41:16 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
