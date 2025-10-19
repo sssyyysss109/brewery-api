@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Aftershock Brewing Co |
+| **브루어리 이름** | Blacklist Artisan Ales |
 | **유형** | micro |
-| **주소** | 28822 Old Town Front St Ste 107, Temecula, California |
-| **웹사이트** | http://www.aftershockbrewingco.com |
+| **주소** | 120 E Superior St, Duluth, Minnesota |
+| **웹사이트** | http://www.blacklistbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-18 01:37:32 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-19 01:53:48 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
