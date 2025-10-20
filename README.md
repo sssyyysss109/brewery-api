@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Blacklist Artisan Ales |
+| **브루어리 이름** | West Shore Brewing Co |
 | **유형** | micro |
-| **주소** | 120 E Superior St, Duluth, Minnesota |
-| **웹사이트** | http://www.blacklistbeer.com |
+| **주소** | 10995 Main St, Clarence, New York |
+| **웹사이트** | http://westshorebrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-19 01:53:48 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-20 01:51:06 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
