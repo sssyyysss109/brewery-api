@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | West Shore Brewing Co |
+| **브루어리 이름** | 2 Basset Brewery |
 | **유형** | micro |
-| **주소** | 10995 Main St, Clarence, New York |
-| **웹사이트** | http://westshorebrewing.com |
+| **주소** | 202 E Main St, White Sulphur Springs, Montana |
+| **웹사이트** | http://www.2bassetbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-20 01:51:06 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-21 01:45:13 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
