@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | 2 Basset Brewery |
+| **브루어리 이름** | 4 Noses Brewing Company |
 | **유형** | micro |
-| **주소** | 202 E Main St, White Sulphur Springs, Montana |
-| **웹사이트** | http://www.2bassetbrewery.com |
+| **주소** | 8855 W 116th Cir Ste 3, Broomfield, Colorado |
+| **웹사이트** | http://4nosesbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-21 01:45:13 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-22 01:48:30 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
