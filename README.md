@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | 4 Noses Brewing Company |
+| **브루어리 이름** | Burning Beard Brewing |
 | **유형** | micro |
-| **주소** | 8855 W 116th Cir Ste 3, Broomfield, Colorado |
-| **웹사이트** | http://4nosesbrewing.com |
+| **주소** | 785 Vernon Way, El Cajon, California |
+| **웹사이트** | http://www.burningbeardbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-22 01:48:30 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-23 01:44:11 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
