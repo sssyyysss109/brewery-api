@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Burning Beard Brewing |
+| **브루어리 이름** | Fairport Brewing Co |
 | **유형** | micro |
-| **주소** | 785 Vernon Way, El Cajon, California |
-| **웹사이트** | http://www.burningbeardbrewing.com |
+| **주소** | 99 S Main St, Fairport, New York |
+| **웹사이트** | http://www.fairportbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-23 01:44:11 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-24 01:40:32 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
