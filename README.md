@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Fairport Brewing Co |
+| **브루어리 이름** | Battle Brewery |
 | **유형** | micro |
-| **주소** | 99 S Main St, Fairport, New York |
-| **웹사이트** | http://www.fairportbrewing.com |
+| **주소** | North Trade Road, Battle, East Sussex |
+| **웹사이트** | http://battlebrewery.co.uk/ |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-24 01:40:32 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-25 01:41:48 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
