@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | North End Tavern & Brewery |
-| **유형** | brewpub |
-| **주소** | 3500 Emerson Ave, Parkersburg, West Virginia |
-| **웹사이트** | http://www.netbrewery.com |
+| **브루어리 이름** | Sherpa Brewery Pvt. Ltd. |
+| **유형** | contract |
+| **주소** | 1708 W 17th Dr, Golden, Colorado |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-10-26 01:50:15 (UTC)`  
+⏳ **업데이트 시간**: `2025-10-27 01:54:22 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
