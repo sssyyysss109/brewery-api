@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Nickelpoint Brewing Co |
+| **브루어리 이름** | Maple Lawn Brewery |
 | **유형** | micro |
-| **주소** | 506 Pershing Rd, Raleigh, North Carolina |
-| **웹사이트** | http://www.nickelpointbrewing.com |
+| **주소** | 110 Mulberry Ave, Pomeroy, Ohio |
+| **웹사이트** | http://www.maplelawnbrew.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-01 01:50:36 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-02 01:52:54 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
