@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | McMenamins John Barleycorns |
-| **유형** | brewpub |
-| **주소** | 14610 SW Sequoia Pkwy, Tigard, Oregon |
-| **웹사이트** | http://www.mcmenamins.com |
+| **브루어리 이름** | Magnolia Dogpatch |
+| **유형** | micro |
+| **주소** | 2505 3rd St, San Francisco, California |
+| **웹사이트** | http://www.magnoliasmokestack.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-03 01:52:25 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-04 01:47:50 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
