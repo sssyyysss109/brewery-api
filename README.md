@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Faust Hotel Restaurant and Brew Pub |
-| **유형** | micro |
-| **주소** | 499 S Castell Ave, New Braunfels, Texas |
-| **웹사이트** | http://www.faustbrewing.com |
+| **브루어리 이름** | 122 West Brewing Co |
+| **유형** | closed |
+| **주소** | 2416 Meridian St, Bellingham, Washington |
+| **웹사이트** | https://www.122westbrew.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-05 01:48:51 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-06 01:49:15 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
