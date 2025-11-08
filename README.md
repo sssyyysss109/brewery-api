@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Branchline Brewing Company |
-| **유형** | closed |
-| **주소** | 3633 Metro Pkwy, San Antonio, Texas |
-| **웹사이트** | http://www.branchlinebrewing.com |
+| **브루어리 이름** | Cravings Bistro & Pub |
+| **유형** | brewpub |
+| **주소** | 1599 Mall Dr Ste B, Benton Harbor, Michigan |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-07 01:47:54 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-08 01:41:58 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
