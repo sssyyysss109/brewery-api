@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Cravings Bistro & Pub |
+| **브루어리 이름** | ReUnion Brewery |
 | **유형** | brewpub |
-| **주소** | 1599 Mall Dr Ste B, Benton Harbor, Michigan |
-| **웹사이트** | None |
+| **주소** | 516 2nd St, Coralville, Iowa |
+| **웹사이트** | http://www.reunionbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-08 01:41:58 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-09 01:51:53 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
