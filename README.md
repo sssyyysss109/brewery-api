@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Grand Teton Brewing Co |
-| **유형** | micro |
-| **주소** | 430 Old Jackson Hwy, Victor, Idaho |
-| **웹사이트** | http://grandtetonbrewing.com |
+| **브루어리 이름** | Cotee River Brewing Company |
+| **유형** | planning |
+| **주소** | None, New Port Richey, Florida |
+| **웹사이트** | http://www.coteeriverbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-11 01:49:53 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-12 01:49:02 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
