@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Trap Rock Restaurant And Brewery |
-| **유형** | brewpub |
-| **주소** | 279 Springfield Ave, Berkeley Heights, New Jersey |
-| **웹사이트** | http://www.traprockrestaurant.net |
+| **브루어리 이름** | Costellos Brewing Company |
+| **유형** | micro |
+| **주소** | 58D Hebron Industrial Estate, Kilkenny, Kilkenny |
+| **웹사이트** | http://www.costellosbrewco.ie/ |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-14 01:49:36 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-15 01:45:18 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
