@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Costellos Brewing Company |
+| **브루어리 이름** | Potosi Brewing Co |
 | **유형** | micro |
-| **주소** | 58D Hebron Industrial Estate, Kilkenny, Kilkenny |
-| **웹사이트** | http://www.costellosbrewco.ie/ |
+| **주소** | 209 S Main St, Potosi, Wisconsin |
+| **웹사이트** | http://www.potosibrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-15 01:45:18 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-16 01:54:56 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
