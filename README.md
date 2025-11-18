@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Tilt Wurks Brewhouse & Casino |
-| **유형** | micro |
-| **주소** | 420 Pacific Ave, Miles City, Montana |
-| **웹사이트** | http://www.tiltwurks.com |
+| **브루어리 이름** | Wood Boat Brewery |
+| **유형** | brewpub |
+| **주소** | 625 Mary St Ste A, Clayton, New York |
+| **웹사이트** | http://www.woodboatbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-17 01:50:26 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-18 01:48:33 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
