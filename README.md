@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | These Guys Brewing Company |
-| **유형** | brewpub |
-| **주소** | 78 Franklin St, Norwich, Connecticut |
-| **웹사이트** | http://www.theseguysbrewig.com |
+| **브루어리 이름** | HooDoo Brewing Co |
+| **유형** | micro |
+| **주소** | 1951 Fox Ave, Fairbanks, Alaska |
+| **웹사이트** | http://www.hoodoobrew.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-19 01:48:40 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-20 01:47:23 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
