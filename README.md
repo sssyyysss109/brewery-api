@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | J. Boag & Sons (orig. Esk Brewery) |
-| **유형** | large |
-| **주소** | Esplanade, Launceston, TAS |
-| **웹사이트** | None |
+| **브루어리 이름** | Zwakala Brewery |
+| **유형** | micro |
+| **주소** | Cheerio Road, Haenertsburg, Limpopo |
+| **웹사이트** | https://zwakalabrewery.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-21 01:48:09 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-22 01:44:18 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
