@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Zwakala Brewery |
-| **유형** | micro |
-| **주소** | Cheerio Road, Haenertsburg, Limpopo |
-| **웹사이트** | https://zwakalabrewery.com/ |
+| **브루어리 이름** | Optimism Brewing Company |
+| **유형** | closed |
+| **주소** | 1158 Broadway, Seattle, Washington |
+| **웹사이트** | http://www.optimismbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-22 01:44:18 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-23 02:02:07 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
