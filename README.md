@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lakes & Legends Brewing Company |
-| **유형** | micro |
-| **주소** | 1368 Lasalle Ave, Minneapolis, Minnesota |
-| **웹사이트** | http://www.lakesandlegends.com |
+| **브루어리 이름** | Marble Brewery - Production |
+| **유형** | regional |
+| **주소** | 111 Marble Ave NW, Albuquerque, New Mexico |
+| **웹사이트** | http://www.marblebrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-24 01:56:25 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-25 01:50:14 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
