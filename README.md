@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | The Beak Brewery Limited |
-| **유형** | taproom |
-| **주소** | South Street, Lewes, East Sussex |
-| **웹사이트** | https://beakbrewery.com/ |
+| **브루어리 이름** | Roughtail Brewing |
+| **유형** | micro |
+| **주소** | 320 W Memorial Rd, Oklahoma City, Oklahoma |
+| **웹사이트** | http://www.roughtailbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-27 01:48:06 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-28 01:47:53 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
