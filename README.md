@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Roughtail Brewing |
+| **브루어리 이름** | River City Brewing |
 | **유형** | micro |
-| **주소** | 320 W Memorial Rd, Oklahoma City, Oklahoma |
-| **웹사이트** | http://www.roughtailbeer.com |
+| **주소** | 121 S Cedar St, Spokane, Washington |
+| **웹사이트** | http://www.rivercitybrew.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-28 01:47:53 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-29 01:47:20 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
