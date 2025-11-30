@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | River City Brewing |
-| **유형** | micro |
-| **주소** | 121 S Cedar St, Spokane, Washington |
-| **웹사이트** | http://www.rivercitybrew.com |
+| **브루어리 이름** | Druthers Brewing Co |
+| **유형** | brewpub |
+| **주소** | 381 Broadway, Saratoga Springs, New York |
+| **웹사이트** | http://www.druthersbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-29 01:47:20 (UTC)`  
+⏳ **업데이트 시간**: `2025-11-30 02:01:06 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
