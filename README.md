@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Druthers Brewing Co |
+| **브루어리 이름** | Hullabaloo Diner |
 | **유형** | brewpub |
-| **주소** | 381 Broadway, Saratoga Springs, New York |
-| **웹사이트** | http://www.druthersbrewing.com |
+| **주소** | 15045 FM 2154 Rd, College Station, Texas |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-11-30 02:01:06 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-01 02:08:44 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
