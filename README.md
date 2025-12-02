@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Hullabaloo Diner |
+| **브루어리 이름** | Taplands Brewery |
 | **유형** | brewpub |
-| **주소** | 15045 FM 2154 Rd, College Station, Texas |
-| **웹사이트** | None |
+| **주소** | 1171 Homestead Rd Ste 110, Santa Clara, California |
+| **웹사이트** | http://www.taplands.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-01 02:08:44 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-02 01:52:26 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
