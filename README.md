@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Puritan Brew Company |
-| **유형** | contract |
-| **주소** | 205 W Dickson St, Fayetteville, Arkansas |
-| **웹사이트** | http://www.puritanbrewcompany.com |
+| **브루어리 이름** | The Runway By Patrick |
+| **유형** | brewpub |
+| **주소** | 2044 Airport Rd, Napa, California |
+| **웹사이트** | http://www.therunwaybypatrick.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-03 01:51:56 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-04 01:52:51 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
