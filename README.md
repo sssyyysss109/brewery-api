@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | The Runway By Patrick |
-| **유형** | brewpub |
-| **주소** | 2044 Airport Rd, Napa, California |
-| **웹사이트** | http://www.therunwaybypatrick.com |
+| **브루어리 이름** | Lake Superior Brewing Co |
+| **유형** | micro |
+| **주소** | 2711 W Superior St Ste 204, Duluth, Minnesota |
+| **웹사이트** | http://www.lakesuperiorbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-04 01:52:51 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-05 01:53:18 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
