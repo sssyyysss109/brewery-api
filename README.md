@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | West Side Brewing |
-| **유형** | micro |
-| **주소** | 3044 Harrison Ave, Cincinnati, Ohio |
-| **웹사이트** | http://www.westsidebrewing.com |
+| **브루어리 이름** | Center Pivot |
+| **유형** | planning |
+| **주소** | None, Quinter, Kansas |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-06 01:46:37 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-07 02:01:49 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
