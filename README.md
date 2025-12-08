@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Center Pivot |
+| **브루어리 이름** | Dead Low Brewing |
 | **유형** | planning |
-| **주소** | None, Quinter, Kansas |
-| **웹사이트** | None |
+| **주소** | None, Cincinnati, Ohio |
+| **웹사이트** | http://www.deadlowbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-07 02:01:49 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-08 01:54:07 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
