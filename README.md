@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Coda Brewing Company |
-| **유형** | planning |
-| **주소** | None, Golden, Colorado |
-| **웹사이트** | http://codabrewing.com |
+| **브루어리 이름** | Jeremiah Johnson Brewing Company |
+| **유형** | brewpub |
+| **주소** | 215 3rd St NW, Great Falls, Montana |
+| **웹사이트** | http://www.jeremiahjohnsonbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-10 01:55:10 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-11 01:56:31 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
