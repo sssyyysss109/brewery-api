@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Second Street Brewery - Rufina |
-| **유형** | brewpub |
-| **주소** | 2920 Rufina St, Santa Fe, New Mexico |
-| **웹사이트** | http://www.secondstreetbreweryrufina.com |
+| **브루어리 이름** | Wagner Valley Brewing Co |
+| **유형** | micro |
+| **주소** | 9322 Route 414, Lodi, New York |
+| **웹사이트** | http://www.wagnerbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-14 02:02:18 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-15 01:59:56 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
