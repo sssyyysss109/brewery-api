@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Wagner Valley Brewing Co |
+| **브루어리 이름** | Marker 48 Brewing LLC |
 | **유형** | micro |
-| **주소** | 9322 Route 414, Lodi, New York |
-| **웹사이트** | http://www.wagnerbrewing.com |
+| **주소** | 12147 Cortez Blvd, Brooksville, Florida |
+| **웹사이트** | http://www.marker48.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-15 01:59:56 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-16 01:56:39 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
