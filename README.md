@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Half Barrel Beer Project |
-| **유형** | brewpub |
-| **주소** | 9650 Universal Blvd Ste 143, Orlando, Florida |
-| **웹사이트** | http://www.halfbarrelproject.com |
+| **브루어리 이름** | Goulburn Brewery |
+| **유형** | micro |
+| **주소** | 23 Bungonia Road, Goulburn, NSW |
+| **웹사이트** | https://www.goulburnbrewery.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-18 01:52:38 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-19 01:55:43 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
