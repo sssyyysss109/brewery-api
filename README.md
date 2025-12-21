@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Granite City Food & Brewery |
+| **브루어리 이름** | Thirsty Farmer Brew Works |
 | **유형** | brewpub |
-| **주소** | 150 W 96th St, Indianapolis, Indiana |
+| **주소** | 290 Cashtown Road, Biglerville, Pennsylvania |
 | **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-20 01:49:23 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-21 02:02:09 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
