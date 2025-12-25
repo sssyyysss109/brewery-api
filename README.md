@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | South Shore Brewery |
-| **유형** | micro |
-| **주소** | 808 Main St W, Ashland, Wisconsin |
-| **웹사이트** | http://www.southshorebrewery.com |
+| **브루어리 이름** | Two Brothers Brewing Co |
+| **유형** | regional |
+| **주소** | 30W315 Calumet Ave W, Warrenville, Illinois |
+| **웹사이트** | http://www.TwoBrothersBrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-24 01:54:41 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-25 01:57:04 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
