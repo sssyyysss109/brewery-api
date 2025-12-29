@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Due South Brewing Co |
-| **유형** | micro |
-| **주소** | 2900 High Ridge Rd Ste 3, Boynton Beach, Florida |
-| **웹사이트** | http://www.duesouthales.com |
+| **브루어리 이름** | Parkers Hilltop Brewery |
+| **유형** | brewpub |
+| **주소** | 6110 Dixie Hwy, Clarkston, Michigan |
+| **웹사이트** | http://www.hilltopbrew.com |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-28 02:07:43 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-29 02:05:52 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
