@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Parkers Hilltop Brewery |
+| **브루어리 이름** | Firestone Walker Brewing Co |
 | **유형** | brewpub |
-| **주소** | 6110 Dixie Hwy, Clarkston, Michigan |
-| **웹사이트** | http://www.hilltopbrew.com |
+| **주소** | 3205 Washington Blvd, Marina del Rey, California |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-29 02:05:52 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-30 01:57:36 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
