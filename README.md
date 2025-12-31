@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Firestone Walker Brewing Co |
+| **브루어리 이름** | Toltec Brewing Co |
 | **유형** | brewpub |
-| **주소** | 3205 Washington Blvd, Marina del Rey, California |
+| **주소** | 10250 Cottonwood Park NW # S, Albuquerque, New Mexico |
 | **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2025-12-30 01:57:36 (UTC)`  
+⏳ **업데이트 시간**: `2025-12-31 01:57:50 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
