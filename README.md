@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Crane Brewing Company |
-| **유형** | micro |
-| **주소** | 6515 Railroad St, Raytown, Missouri |
-| **웹사이트** | http://www.cranebrewing.com |
+| **브루어리 이름** | Another Round Brewing Co |
+| **유형** | closed |
+| **주소** | 745 N Grand Ave, Pullman, Washington |
+| **웹사이트** | https://anotherroundbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-01 02:08:19 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-02 01:59:34 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
