@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Another Round Brewing Co |
-| **유형** | closed |
-| **주소** | 745 N Grand Ave, Pullman, Washington |
-| **웹사이트** | https://anotherroundbrewery.com |
+| **브루어리 이름** | Small Batch Beer Co |
+| **유형** | brewpub |
+| **주소** | 241 W 5th St, Winston Salem, North Carolina |
+| **웹사이트** | http://www.smallbatchws.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-02 01:59:34 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-03 01:53:18 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
