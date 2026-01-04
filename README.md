@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Small Batch Beer Co |
-| **유형** | brewpub |
-| **주소** | 241 W 5th St, Winston Salem, North Carolina |
-| **웹사이트** | http://www.smallbatchws.com |
+| **브루어리 이름** | White Bluffs Brewing |
+| **유형** | micro |
+| **주소** | 2034 Logston Blvd, Richland, Washington |
+| **웹사이트** | http://www.whitebluffsbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-03 01:53:18 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-04 02:09:18 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
