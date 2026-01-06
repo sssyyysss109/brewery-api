@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Little Harpeth Brewing Co |
-| **유형** | micro |
-| **주소** | 30 Oldham St, Nashville, Tennessee |
-| **웹사이트** | http://www.littleharpethbrewing.com |
+| **브루어리 이름** | Rogue Ales Brewery |
+| **유형** | regional |
+| **주소** | 2320 SE Osu Dr, Newport, Oregon |
+| **웹사이트** | http://rogue.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-05 02:09:14 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-06 01:59:26 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
