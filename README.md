@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Blues City Brewing Co |
-| **유형** | regional |
-| **주소** | 5151 E Raines Rd, Memphis, Tennessee |
-| **웹사이트** | http://www.citybrewing.com |
+| **브루어리 이름** | Artisan's Brewery & Italian Grill |
+| **유형** | brewpub |
+| **주소** | 1171 Hooper Ave, Toms River, New Jersey |
+| **웹사이트** | http://www.artisanstomsriver.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-07 01:59:07 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-08 01:59:26 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
