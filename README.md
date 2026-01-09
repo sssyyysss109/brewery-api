@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Artisan's Brewery & Italian Grill |
+| **브루어리 이름** | 블루웨일브루하우스(BlueWhale Brewhouse) |
 | **유형** | brewpub |
-| **주소** | 1171 Hooper Ave, Toms River, New Jersey |
-| **웹사이트** | http://www.artisanstomsriver.com |
+| **주소** | 109, Sajik-ro, Chungju-si, Chungcheongbukdo |
+| **웹사이트** | https://whalebeer.modoo.at/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-08 01:59:26 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-09 02:00:33 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
