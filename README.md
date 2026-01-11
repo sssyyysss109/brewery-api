@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Miami Brewing Co |
-| **유형** | brewpub |
-| **주소** | 30205 SW 217th Ave, Homestead, Florida |
-| **웹사이트** | http://www.miamibrewing.org |
+| **브루어리 이름** | ManaFirkin |
+| **유형** | micro |
+| **주소** | 450 East Bay Ave Ste 2, Manahawkin, New Jersey |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-10 01:56:35 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-11 02:09:19 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
