@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | ManaFirkin |
+| **브루어리 이름** | Bowden Brewing |
 | **유형** | micro |
-| **주소** | 450 East Bay Ave Ste 2, Manahawkin, New Jersey |
-| **웹사이트** | None |
+| **주소** | 12 Fourth Street, Bowden, SA |
+| **웹사이트** | https://bowdenbrewing.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-11 02:09:19 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-12 02:05:34 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
