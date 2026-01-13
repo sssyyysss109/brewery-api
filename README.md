@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Bowden Brewing |
+| **브루어리 이름** | Noodledoof Brewing Co |
 | **유형** | micro |
-| **주소** | 12 Fourth Street, Bowden, SA |
-| **웹사이트** | https://bowdenbrewing.com/ |
+| **주소** | 128 Commercial Road, Koroit, VIC |
+| **웹사이트** | http://www.noodledoof.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-12 02:05:34 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-13 01:56:53 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
