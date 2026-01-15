@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Free Range Brewing |
-| **유형** | micro |
-| **주소** | 2320 N Davidson St Unit D, Charlotte, North Carolina |
-| **웹사이트** | http://www.freerangebrewing.com |
+| **브루어리 이름** | Lidl US LLC |
+| **유형** | contract |
+| **주소** | 3500 S Clark St, Arlington, Virginia |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-14 02:04:18 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-15 01:59:03 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
