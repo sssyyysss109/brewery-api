@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lidl US LLC |
-| **유형** | contract |
-| **주소** | 3500 S Clark St, Arlington, Virginia |
-| **웹사이트** | None |
+| **브루어리 이름** | Honey Hollow Brewery |
+| **유형** | micro |
+| **주소** | 376 E. Honey Rd., Earlton, New York |
+| **웹사이트** | http://www.honeyhollowbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-15 01:59:03 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-16 02:01:11 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
