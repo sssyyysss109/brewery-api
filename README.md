@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Honey Hollow Brewery |
-| **유형** | micro |
-| **주소** | 376 E. Honey Rd., Earlton, New York |
-| **웹사이트** | http://www.honeyhollowbrewery.com |
+| **브루어리 이름** | American Badass Beer |
+| **유형** | contract |
+| **주소** | 1401 Abbott St Corktown, Detroit, Michigan |
+| **웹사이트** | http://www.americanbadassbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-16 02:01:11 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-17 01:55:12 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
