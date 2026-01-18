@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | American Badass Beer |
-| **유형** | contract |
-| **주소** | 1401 Abbott St Corktown, Detroit, Michigan |
-| **웹사이트** | http://www.americanbadassbeer.com |
+| **브루어리 이름** | Highland Park Brewery |
+| **유형** | brewpub |
+| **주소** | 1229 N Spring St, Los Angeles, California |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-17 01:55:12 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-18 02:08:04 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
