@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Highland Park Brewery |
-| **유형** | brewpub |
-| **주소** | 1229 N Spring St, Los Angeles, California |
-| **웹사이트** | None |
+| **브루어리 이름** | Elkhorn Slough Brewing Company |
+| **유형** | micro |
+| **주소** | 65 Hangar Way Unit D, Watsonville, California |
+| **웹사이트** | http://www.elkhornsloughbrew.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-18 02:08:04 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-19 02:06:02 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
