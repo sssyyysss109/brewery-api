@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Elkhorn Slough Brewing Company |
-| **유형** | micro |
-| **주소** | 65 Hangar Way Unit D, Watsonville, California |
-| **웹사이트** | http://www.elkhornsloughbrew.com |
+| **브루어리 이름** | Outland Brewing Company |
+| **유형** | planning |
+| **주소** | None, Salem, New Hampshire |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-19 02:06:02 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-20 02:00:49 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
