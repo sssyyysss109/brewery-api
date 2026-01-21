@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Outland Brewing Company |
-| **유형** | planning |
-| **주소** | None, Salem, New Hampshire |
-| **웹사이트** | None |
+| **브루어리 이름** | CATCHMENT Ballistic Beer Company |
+| **유형** | micro |
+| **주소** | 53-55 McCarthy Road, Salisbury, QLD |
+| **웹사이트** | https://ballisticbeer.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-20 02:00:49 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-21 02:03:32 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
