@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | CATCHMENT Ballistic Beer Company |
+| **브루어리 이름** | Buffalo Bayou Brewing Co |
 | **유형** | micro |
-| **주소** | 53-55 McCarthy Road, Salisbury, QLD |
-| **웹사이트** | https://ballisticbeer.com/ |
+| **주소** | 5301 Nolda St, Houston, Texas |
+| **웹사이트** | http://www.buffbrew.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-21 02:03:32 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-22 02:04:37 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
