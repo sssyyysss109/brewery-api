@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | New England Brewing Co. |
+| **브루어리 이름** | Idle Hands Craft Ales |
 | **유형** | micro |
-| **주소** | 19 Bridge Street, Uralla, NSW |
-| **웹사이트** | http://www.newenglandbrewing.com.au/ |
+| **주소** | 89 Commercial St, Malden, Massachusetts |
+| **웹사이트** | http://www.idlehandscraftales.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-23 02:00:20 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-24 01:56:57 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
