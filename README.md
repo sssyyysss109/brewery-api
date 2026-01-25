@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Idle Hands Craft Ales |
+| **브루어리 이름** | Landlocked Ales |
 | **유형** | micro |
-| **주소** | 89 Commercial St, Malden, Massachusetts |
-| **웹사이트** | http://www.idlehandscraftales.com |
+| **주소** | 3225 S Wadsworth Blvd Unit R, Lakewood, Colorado |
+| **웹사이트** | http://www.landlockedales.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-24 01:56:57 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-25 02:11:27 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
