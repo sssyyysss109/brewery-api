@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Landlocked Ales |
+| **브루어리 이름** | BADSONS Beer Co |
 | **유형** | micro |
-| **주소** | 3225 S Wadsworth Blvd Unit R, Lakewood, Colorado |
-| **웹사이트** | http://www.landlockedales.com |
+| **주소** | 251 Roosevelt Dr, Derby, Connecticut |
+| **웹사이트** | http://www.badsoons.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-25 02:11:27 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-26 02:10:46 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
