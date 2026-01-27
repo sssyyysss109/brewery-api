@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | BADSONS Beer Co |
-| **유형** | micro |
-| **주소** | 251 Roosevelt Dr, Derby, Connecticut |
-| **웹사이트** | http://www.badsoons.com |
+| **브루어리 이름** | Big Hart Brewing Company |
+| **유형** | brewpub |
+| **주소** | 4086 W Polk Rd, Hart, Michigan |
+| **웹사이트** | http://www.bighartbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-26 02:10:46 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-27 02:07:19 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
