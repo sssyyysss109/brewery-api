@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Big Hart Brewing Company |
-| **유형** | brewpub |
-| **주소** | 4086 W Polk Rd, Hart, Michigan |
-| **웹사이트** | http://www.bighartbrewing.com |
+| **브루어리 이름** | Tahoe Mountain Brewing Company |
+| **유형** | closed |
+| **주소** | 10990 Industrial Way Ste B104, Truckee, California |
+| **웹사이트** | http://tahoebrewing.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-27 02:07:19 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-28 02:03:26 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
