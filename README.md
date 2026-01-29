@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Tahoe Mountain Brewing Company |
-| **유형** | closed |
-| **주소** | 10990 Industrial Way Ste B104, Truckee, California |
-| **웹사이트** | http://tahoebrewing.com/ |
+| **브루어리 이름** | Gun Brewery Ltd |
+| **유형** | micro |
+| **주소** | Gun Hill, Heathfield, East Sussex |
+| **웹사이트** | https://www.gunbrewery.co.uk/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-28 02:03:26 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-29 02:25:17 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
