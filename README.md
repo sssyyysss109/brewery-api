@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Gun Brewery Ltd |
+| **브루어리 이름** | Pro Re Nata Brewery |
 | **유형** | micro |
-| **주소** | Gun Hill, Heathfield, East Sussex |
-| **웹사이트** | https://www.gunbrewery.co.uk/ |
+| **주소** | 6135 Rockfish Gap Tpke, Crozet, Virginia |
+| **웹사이트** | http://www.prnbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-29 02:25:17 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-30 02:25:06 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
