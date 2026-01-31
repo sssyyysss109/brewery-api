@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Pro Re Nata Brewery |
-| **유형** | micro |
-| **주소** | 6135 Rockfish Gap Tpke, Crozet, Virginia |
-| **웹사이트** | http://www.prnbrewery.com |
+| **브루어리 이름** | Big's BBQ Brewpub |
+| **유형** | brewpub |
+| **주소** | 124 2nd Ave NW, Mount Vernon, Iowa |
+| **웹사이트** | http://www.bigsbbqmv.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-01-30 02:25:06 (UTC)`  
+⏳ **업데이트 시간**: `2026-01-31 02:20:42 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
