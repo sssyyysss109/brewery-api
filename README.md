@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Pinups & Pints |
-| **유형** | micro |
-| **주소** | 10963 Lower Valley Pike, Medway, Ohio |
-| **웹사이트** | http://www.pinupsandpints.com |
+| **브루어리 이름** | RAM Restaurant and Brewery - Schaumburg |
+| **유형** | brewpub |
+| **주소** | 1901 McConnor Pkwy, Schaumburg, Illinois |
+| **웹사이트** | http://www.theram.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-01 02:44:50 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-02 02:34:37 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
