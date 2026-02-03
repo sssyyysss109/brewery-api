@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | RAM Restaurant and Brewery - Schaumburg |
-| **유형** | brewpub |
-| **주소** | 1901 McConnor Pkwy, Schaumburg, Illinois |
-| **웹사이트** | http://www.theram.com |
+| **브루어리 이름** | Young Henrys Brewery |
+| **유형** | micro |
+| **주소** | 76 Wilford Street, Newtown, NSW |
+| **웹사이트** | http://www.younghenrys.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-02 02:34:37 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-03 02:31:29 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
