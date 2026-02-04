@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Young Henrys Brewery |
+| **브루어리 이름** | Hoops Brewing |
 | **유형** | micro |
-| **주소** | 76 Wilford Street, Newtown, NSW |
-| **웹사이트** | http://www.younghenrys.com/ |
+| **주소** | 325 S Lake Ave # 110, Duluth, Minnesota |
+| **웹사이트** | http://www.hoopsbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-03 02:31:29 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-04 02:25:56 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
