@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Arizona Wilderness Brewing |
-| **유형** | brewpub |
-| **주소** | 721 N Arizona Ave, Gilbert, Arizona |
-| **웹사이트** | http://Azwbeer.com |
+| **브루어리 이름** | Triple Dog Brewing Company |
+| **유형** | micro |
+| **주소** | 675 1st St W, Havre, Montana |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-05 02:27:34 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-06 02:28:17 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
