@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Constantine Brewing Co |
-| **유형** | brewpub |
-| **주소** | 145 S Washington St, Constantine, Michigan |
-| **웹사이트** | http://www.constantinebrewingco.com |
+| **브루어리 이름** | Elkins Brewing Company |
+| **유형** | micro |
+| **주소** | 1901 E Santa Fe Ave, Grants, New Mexico |
+| **웹사이트** | http://www.elkinsbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-08 02:50:34 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-09 02:35:01 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
