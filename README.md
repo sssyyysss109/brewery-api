@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Elkins Brewing Company |
-| **유형** | micro |
-| **주소** | 1901 E Santa Fe Ave, Grants, New Mexico |
-| **웹사이트** | http://www.elkinsbrewing.com |
+| **브루어리 이름** | Feed Store Beer Co |
+| **유형** | planning |
+| **주소** | None, Bloomfield, Indiana |
+| **웹사이트** | http://www.feedstorebeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-09 02:35:01 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-10 02:43:52 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
