@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | CJs Brewing Co |
-| **유형** | brewpub |
-| **주소** | 8115 Richardson Rd, Commerce Township, Michigan |
-| **웹사이트** | http://www.cjsbrewingcompany.com |
+| **브루어리 이름** | High Horse Brewery and Bistro |
+| **유형** | contract |
+| **주소** | 24 N Pleasant St, Amherst, Massachusetts |
+| **웹사이트** | http://www.highhorsebrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-11 02:41:16 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-12 02:36:00 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
