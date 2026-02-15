@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Dark Horse Brewing Co |
-| **유형** | micro |
-| **주소** | 511 S Kalamazoo Ave, Marshall, Michigan |
-| **웹사이트** | http://www.darkhorsebrewery.com |
+| **브루어리 이름** | Boneyard Beer Co |
+| **유형** | brewpub |
+| **주소** | 1955 NE Division St, Bend, Oregon |
+| **웹사이트** | http://www.boneyardbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-14 02:25:14 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-15 02:38:01 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
