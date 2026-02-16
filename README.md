@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Boneyard Beer Co |
-| **유형** | brewpub |
-| **주소** | 1955 NE Division St, Bend, Oregon |
-| **웹사이트** | http://www.boneyardbeer.com |
+| **브루어리 이름** | Plow Brewing Company |
+| **유형** | micro |
+| **주소** | 3334 Industrial Dr, Santa Rosa, California |
+| **웹사이트** | http://www.sonomacounty.com/brewery/plow-brewing-company |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-15 02:38:01 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-16 02:33:38 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
