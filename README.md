@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Green Tree Brewery |
-| **유형** | micro |
-| **주소** | 309 N Cody Road, Le Claire, Iowa |
-| **웹사이트** | https://greentreebrewery.com |
+| **브루어리 이름** | Lumber Barons Brewery |
+| **유형** | brewpub |
+| **주소** | 804 E Midland St, Bay City, Michigan |
+| **웹사이트** | http://www.lumberbaronsbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-19 02:32:44 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-20 02:28:02 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
