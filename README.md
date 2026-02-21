@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lumber Barons Brewery |
-| **유형** | brewpub |
-| **주소** | 804 E Midland St, Bay City, Michigan |
-| **웹사이트** | http://www.lumberbaronsbrewery.com |
+| **브루어리 이름** | Brouwerij Les Deplorables |
+| **유형** | nano |
+| **주소** | 19812 163rd Ave NE, Woodinville, Washington |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-20 02:28:02 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-21 02:22:16 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
