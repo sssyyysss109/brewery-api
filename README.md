@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Brouwerij Les Deplorables |
-| **유형** | nano |
-| **주소** | 19812 163rd Ave NE, Woodinville, Washington |
-| **웹사이트** | None |
+| **브루어리 이름** | Rhinelander Brewing Co |
+| **유형** | contract |
+| **주소** | 59 S Brown St, Rhinelander, Wisconsin |
+| **웹사이트** | http://www.rhinelanderbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-21 02:22:16 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-22 02:33:20 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
