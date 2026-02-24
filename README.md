@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Alamo Beer Co |
-| **유형** | micro |
-| **주소** | 415 Burnet St, San Antonio, Texas |
-| **웹사이트** | http://www.alamobeer.com |
+| **브루어리 이름** | Working Man Brewing Co |
+| **유형** | closed |
+| **주소** | 5542 Brisa St Ste F, Livermore, California |
+| **웹사이트** | http://www.workingmanbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-23 02:33:58 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-24 02:30:24 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
