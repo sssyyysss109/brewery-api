@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Working Man Brewing Co |
-| **유형** | closed |
-| **주소** | 5542 Brisa St Ste F, Livermore, California |
-| **웹사이트** | http://www.workingmanbrewing.com |
+| **브루어리 이름** | Fort Orange Brewing |
+| **유형** | micro |
+| **주소** | 450 N Pearl St, Albany, New York |
+| **웹사이트** | http://www.fortorangebrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-24 02:30:24 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-25 02:31:41 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
