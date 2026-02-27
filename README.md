@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Bradley Brew Project |
-| **유형** | micro |
-| **주소** | 714 Main St, Bradley Beach, New Jersey |
-| **웹사이트** | http://www.bradleybrew.com |
+| **브루어리 이름** | Occidental Brewing |
+| **유형** | brewpub |
+| **주소** | 865 S Rock Blvd, Sparks, Nevada |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-26 02:27:29 (UTC)`  
+⏳ **업데이트 시간**: `2026-02-27 02:26:21 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
