@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Blue Heron Brew Pub |
+| **브루어리 이름** | Final Draft Brewing Company |
 | **유형** | brewpub |
-| **주소** | 108 W 9th St, Marshfield, Wisconsin |
-| **웹사이트** | http://www.blueheronbrewpub.com |
+| **주소** | 1600 California St, Redding, California |
+| **웹사이트** | http://www.finaldraftbrewingcompany.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-02-28 02:09:27 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-01 02:40:39 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
