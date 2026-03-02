@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Final Draft Brewing Company |
+| **브루어리 이름** | South Haven Brewpub |
 | **유형** | brewpub |
-| **주소** | 1600 California St, Redding, California |
-| **웹사이트** | http://www.finaldraftbrewingcompany.com |
+| **주소** | 515 Williams St Ste 23, South Haven, Michigan |
+| **웹사이트** | http://www.southhavenbrewpub.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-01 02:40:39 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-02 02:29:13 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
