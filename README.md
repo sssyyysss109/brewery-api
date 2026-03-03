@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | South Haven Brewpub |
-| **유형** | brewpub |
-| **주소** | 515 Williams St Ste 23, South Haven, Michigan |
-| **웹사이트** | http://www.southhavenbrewpub.com |
+| **브루어리 이름** | Benson Brothers Brewing |
+| **유형** | micro |
+| **주소** | 18 Translink Drive, Keilor Park, VIC |
+| **웹사이트** | https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-02 02:29:13 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-03 02:31:45 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
