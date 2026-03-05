@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Top Of The Hill Restaurant and Brewery |
-| **유형** | brewpub |
-| **주소** | 100 E Franklin St Ste F, Chapel Hill, North Carolina |
-| **웹사이트** | http://www.thetopofthehill.com |
+| **브루어리 이름** | Hell or High Water Brewing |
+| **유형** | planning |
+| **주소** | None, Leander, Texas |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-04 02:25:00 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-05 02:27:39 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
