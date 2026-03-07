@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Second Profession Brewing Company |
+| **브루어리 이름** | Maui Brewing Co - Kailua |
 | **유형** | brewpub |
-| **주소** | 5846 NE Sandy Blvd, Portland, Oregon |
-| **웹사이트** | http://www.secondprofessionbrewing.com |
+| **주소** | 573 Kailua Rd, Kailua, Hawaii |
+| **웹사이트** | https://www.mbcrestaurants.com/kailua |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-06 02:25:56 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-07 02:19:46 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
