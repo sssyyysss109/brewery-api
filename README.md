@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Maui Brewing Co - Kailua |
-| **유형** | brewpub |
-| **주소** | 573 Kailua Rd, Kailua, Hawaii |
-| **웹사이트** | https://www.mbcrestaurants.com/kailua |
+| **브루어리 이름** | Mismatch Brewing Co. |
+| **유형** | micro |
+| **주소** | 317 Morphett Street, Adelaide, SA |
+| **웹사이트** | https://www.mismatchbrewingadl.com.au/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-07 02:19:46 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-08 02:31:02 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
