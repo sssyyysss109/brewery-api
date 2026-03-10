@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Ebullition Brew Works |
+| **브루어리 이름** | Hideaway Park Brewery |
 | **유형** | micro |
-| **주소** | 2449 Cades Way Ste D, Vista, California |
-| **웹사이트** | http://Www.ebullitionbrew.com |
+| **주소** | 78927 US Highway 40, Winter Park, Colorado |
+| **웹사이트** | http://www.hideawayparkbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-09 02:32:08 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-10 02:23:59 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
