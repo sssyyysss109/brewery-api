@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Hideaway Park Brewery |
-| **유형** | micro |
-| **주소** | 78927 US Highway 40, Winter Park, Colorado |
-| **웹사이트** | http://www.hideawayparkbrewery.com |
+| **브루어리 이름** | Crux Fermentation Project |
+| **유형** | regional |
+| **주소** | 50 SW Division St, Bend, Oregon |
+| **웹사이트** | http://www.cruxfermentation.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-10 02:23:59 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-11 02:23:32 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
