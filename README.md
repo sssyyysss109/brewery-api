@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | New English Brewing Co Inc |
+| **브루어리 이름** | Henry And Fran Brewing |
 | **유형** | micro |
-| **주소** | 11545 Sorrento Valley Rd Ste 305, San Diego, California |
-| **웹사이트** | http://www.newenglishbrewing.com |
+| **주소** | 185 Laurel St, West Boylston, Massachusetts |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-13 02:27:20 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-14 02:25:17 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
