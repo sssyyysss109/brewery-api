@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Henry And Fran Brewing |
-| **유형** | micro |
-| **주소** | 185 Laurel St, West Boylston, Massachusetts |
-| **웹사이트** | None |
+| **브루어리 이름** | Greenwood Brewing LLC |
+| **유형** | contract |
+| **주소** | 600 N 4th St Apt 210, Phoenix, Arizona |
+| **웹사이트** | http://www.greenwoodbrews.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-14 02:25:17 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-15 02:45:07 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
