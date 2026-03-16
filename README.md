@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Greenwood Brewing LLC |
-| **유형** | contract |
-| **주소** | 600 N 4th St Apt 210, Phoenix, Arizona |
-| **웹사이트** | http://www.greenwoodbrews.com |
+| **브루어리 이름** | Libertine Brewing Company |
+| **유형** | brewpub |
+| **주소** | 1234 Broad St, San Luis Obispo, California |
+| **웹사이트** | http://www.libertinebrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-15 02:45:07 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-16 02:45:39 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
