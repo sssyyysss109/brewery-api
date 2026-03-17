@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Libertine Brewing Company |
-| **유형** | brewpub |
-| **주소** | 1234 Broad St, San Luis Obispo, California |
-| **웹사이트** | http://www.libertinebrewing.com |
+| **브루어리 이름** | CHILLAX Brewing Company LLC |
+| **유형** | planning |
+| **주소** | None, Milford, Michigan |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-16 02:45:39 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-17 02:29:09 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
