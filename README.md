@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | CHILLAX Brewing Company LLC |
-| **유형** | planning |
-| **주소** | None, Milford, Michigan |
-| **웹사이트** | None |
+| **브루어리 이름** | Gravel Bottom Craft Brewery |
+| **유형** | micro |
+| **주소** | 452 Ada Dr SE, Ada, Michigan |
+| **웹사이트** | http://www.gravelbottom.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-17 02:29:09 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-18 02:34:54 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
