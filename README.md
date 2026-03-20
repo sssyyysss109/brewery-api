@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Bridger Brewing Company |
-| **유형** | brewpub |
-| **주소** | 1609 S 11th Ave, Bozeman, Montana |
-| **웹사이트** | http://www.bridgerbrewing.com |
+| **브루어리 이름** | Lunkenheimer Craft Brewing Co. LLC |
+| **유형** | micro |
+| **주소** | PO Box 539 8920 N Seneca St,, Weedsport, New York |
+| **웹사이트** | http://www.lunkenheimercraftbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-19 02:36:03 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-20 02:27:55 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
