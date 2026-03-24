@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Guinness Open Gate Brewery and Barrel House |
-| **유형** | brewpub |
-| **주소** | 5001 Washington Blvd, Halethorpe, Maryland |
-| **웹사이트** | https://www.guinnessbrewerybaltimore.com/ |
+| **브루어리 이름** | Hopkinsville Brewing Company |
+| **유형** | micro |
+| **주소** | 102 E 5th St, Hopkinsville, Kentucky |
+| **웹사이트** | http://www.hopkinsvillebrewingcompany.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-23 02:37:27 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-24 02:28:55 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
