@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Better Half Brewing |
-| **유형** | closed |
-| **주소** | 59 North Main St, Bristol, Connecticut |
-| **웹사이트** | https://www.betterhalfbrewing.com/ |
+| **브루어리 이름** | Ryan Brewing Company |
+| **유형** | micro |
+| **주소** | 5312 Williams Dr, Roscoe, Illinois |
+| **웹사이트** | http://www.ryanbrewingcompany.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-25 02:34:02 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-26 02:41:11 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
