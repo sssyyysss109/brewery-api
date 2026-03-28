@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Three Tails Brewery |
-| **유형** | micro |
-| **주소** | 13A Lewis Street, Mudgee, NSW |
-| **웹사이트** | http://www.threetailsbrewery.com.au/ |
+| **브루어리 이름** | Avalanche Brewing Co |
+| **유형** | brewpub |
+| **주소** | 1067 Blair St, Silverton, Colorado |
+| **웹사이트** | http://www.avalanchebrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-27 02:43:28 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-28 02:32:56 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
