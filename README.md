@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Avalanche Brewing Co |
+| **브루어리 이름** | South Street Brewery |
 | **유형** | brewpub |
-| **주소** | 1067 Blair St, Silverton, Colorado |
-| **웹사이트** | http://www.avalanchebrewing.com |
+| **주소** | 106 W South St Ste 202, Charlottesville, Virginia |
+| **웹사이트** | http://www.southstreetbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-28 02:32:56 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-29 02:47:30 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
