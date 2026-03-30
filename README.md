@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | South Street Brewery |
-| **유형** | brewpub |
-| **주소** | 106 W South St Ste 202, Charlottesville, Virginia |
-| **웹사이트** | http://www.southstreetbrewery.com |
+| **브루어리 이름** | Pigeon Head Brewery |
+| **유형** | micro |
+| **주소** | 840 E 5th St, Reno, Nevada |
+| **웹사이트** | http://www.pigeonheadbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-29 02:47:30 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-30 02:49:58 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
