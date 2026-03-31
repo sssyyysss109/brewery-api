@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Pigeon Head Brewery |
+| **브루어리 이름** | Full Spectrum Brewing Co |
 | **유형** | micro |
-| **주소** | 840 E 5th St, Reno, Nevada |
-| **웹사이트** | http://www.pigeonheadbrewery.com |
+| **주소** | 2180 Carolina Place Dr Ste 101, Fort Mill, South Carolina |
+| **웹사이트** | http://www.fullspectrumbrewingco.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-30 02:49:58 (UTC)`  
+⏳ **업데이트 시간**: `2026-03-31 02:43:08 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
