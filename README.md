@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Full Spectrum Brewing Co |
+| **브루어리 이름** | 3 Daughters Brewing |
 | **유형** | micro |
-| **주소** | 2180 Carolina Place Dr Ste 101, Fort Mill, South Carolina |
-| **웹사이트** | http://www.fullspectrumbrewingco.com |
+| **주소** | 222 22nd St S, Saint Petersburg, Florida |
+| **웹사이트** | http://www.3dbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-03-31 02:43:08 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-01 02:54:48 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
