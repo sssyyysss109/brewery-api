@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Court Avenue Brewing Co |
-| **유형** | brewpub |
-| **주소** | 309 Court Ave Ste 100, Des Moines, Iowa |
-| **웹사이트** | http://www.courtavebrew.com |
+| **브루어리 이름** | Narvan Kyläpanimo |
+| **유형** | micro |
+| **주소** | Latomaantie 1, Narva, Pirkanmaa |
+| **웹사이트** | https://www.narvankylapanimo.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-02 02:39:24 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-03 02:41:15 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
