@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Narvan Kyläpanimo |
+| **브루어리 이름** | Big Thompson Brewery |
 | **유형** | micro |
-| **주소** | Latomaantie 1, Narva, Pirkanmaa |
-| **웹사이트** | https://www.narvankylapanimo.com |
+| **주소** | 114 E 15th St, Loveland, Colorado |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-03 02:41:15 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-04 02:32:10 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
