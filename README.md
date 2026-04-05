@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Big Thompson Brewery |
-| **유형** | micro |
-| **주소** | 114 E 15th St, Loveland, Colorado |
-| **웹사이트** | None |
+| **브루어리 이름** | Christian Moerlein Brewing Co |
+| **유형** | regional |
+| **주소** | 1621 Moore St, Cincinnati, Ohio |
+| **웹사이트** | http://www.christianmoerlein.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-04 02:32:10 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-05 02:49:49 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
