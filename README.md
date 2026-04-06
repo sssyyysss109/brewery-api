@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Christian Moerlein Brewing Co |
-| **유형** | regional |
-| **주소** | 1621 Moore St, Cincinnati, Ohio |
-| **웹사이트** | http://www.christianmoerlein.com |
+| **브루어리 이름** | Brouwerij Hoop |
+| **유형** | micro |
+| **주소** | Lagedijk 69, Zaandijk, Noord-Holland |
+| **웹사이트** | http://www.brouwerijhoop.nl/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-05 02:49:49 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-06 02:50:53 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
