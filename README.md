@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Alcazar Brewery, LLC. |
-| **유형** | planning |
-| **주소** | None, Rio Grande City, Texas |
-| **웹사이트** | None |
+| **브루어리 이름** | Waconia Brewing Company |
+| **유형** | micro |
+| **주소** | 255 W Main St, Waconia, Minnesota |
+| **웹사이트** | http://www.waconiabrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-09 02:40:14 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-10 02:52:13 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
