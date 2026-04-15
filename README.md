@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Otter Craft Distilling |
-| **유형** | micro |
-| **주소** | 26-30 Halloran Street, Lilyfield, NSW |
-| **웹사이트** | https://ocdistilling.com/ |
+| **브루어리 이름** | Asia Pacific Breweries Pte Ltd |
+| **유형** | large |
+| **주소** | 459 Jalan Ahmad Ibrahim, Singapore, Singapore |
+| **웹사이트** | https://www.apbsingapore.com.sg/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-14 02:52:53 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-15 02:50:41 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
