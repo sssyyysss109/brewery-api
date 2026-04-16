@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Asia Pacific Breweries Pte Ltd |
-| **유형** | large |
-| **주소** | 459 Jalan Ahmad Ibrahim, Singapore, Singapore |
-| **웹사이트** | https://www.apbsingapore.com.sg/ |
+| **브루어리 이름** | Porter Pizza & Brewery |
+| **유형** | brewpub |
+| **주소** | 6370 Powers Ferry Rd NW, Sandy Springs, Georgia |
+| **웹사이트** | http://www.porterpizzabrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-15 02:50:41 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-16 02:57:22 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
