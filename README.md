@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Porter Pizza & Brewery |
-| **유형** | brewpub |
-| **주소** | 6370 Powers Ferry Rd NW, Sandy Springs, Georgia |
-| **웹사이트** | http://www.porterpizzabrewery.com |
+| **브루어리 이름** | Charleston Nano Brewery |
+| **유형** | nano |
+| **주소** | 320 W Washington St, Charleston, West Virginia |
+| **웹사이트** | http://www.charlestonnano.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-16 02:57:22 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-17 02:53:09 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
