@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Hill Country Farm Brewery |
-| **유형** | planning |
-| **주소** | None, Jamesville, New York |
-| **웹사이트** | http://Hillcountryfarmbrewery.com |
+| **브루어리 이름** | Carey's Brew House |
+| **유형** | brewpub |
+| **주소** | 58 Bridge St, Corning, New York |
+| **웹사이트** | http://www.careysbrewhouse.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-18 02:44:15 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-19 03:18:47 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
