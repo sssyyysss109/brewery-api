@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Carey's Brew House |
-| **유형** | brewpub |
-| **주소** | 58 Bridge St, Corning, New York |
-| **웹사이트** | http://www.careysbrewhouse.com |
+| **브루어리 이름** | Museumbrouwerij de Roos |
+| **유형** | micro |
+| **주소** | Sint Sebastiaanstraat 4, Hilvarenbeek, Noord-Brabant |
+| **웹사이트** | https://www.bierbrouwerijderoos.nl/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-19 03:18:47 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-20 03:20:52 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
