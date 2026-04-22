@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Hop Creek Pub |
-| **유형** | brewpub |
-| **주소** | 3253 Browns Valley Rd, Napa, California |
-| **웹사이트** | http://www.hopcreekpub.com |
+| **브루어리 이름** | Syncopated Brewing Co |
+| **유형** | micro |
+| **주소** | 3671 Industry Ave Ste C1, Lakewood, California |
+| **웹사이트** | http://www.syncopatedbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-21 02:54:03 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-22 02:52:42 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
