@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Cavern Brewing At Lowes Foods |
+| **브루어리 이름** | Hoppy Brewing Co |
 | **유형** | brewpub |
-| **주소** | 1381 Old Mill Cir Ste 200, Winston Salem, North Carolina |
-| **웹사이트** | http://www.lowesfoods.com |
+| **주소** | 2425 24th St, Sacramento, California |
+| **웹사이트** | http://www.hoppy.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-23 02:55:37 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-24 02:56:54 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
