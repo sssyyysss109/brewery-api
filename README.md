@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Bright Brewery |
+| **브루어리 이름** | Frost Beer Works |
 | **유형** | micro |
-| **주소** | 121 Great Alpine Road, Bright, VIC |
-| **웹사이트** | https://brightbrewery.com.au/ |
+| **주소** | 171 Commerce St, Hinesburg, Vermont |
+| **웹사이트** | http://www.frostbeerworks.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-25 02:46:17 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-26 03:23:42 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
