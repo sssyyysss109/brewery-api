@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Frost Beer Works |
-| **유형** | micro |
-| **주소** | 171 Commerce St, Hinesburg, Vermont |
-| **웹사이트** | http://www.frostbeerworks.com |
+| **브루어리 이름** | Asia Pacific Breweries Pte Ltd |
+| **유형** | large |
+| **주소** | 459 Jalan Ahmad Ibrahim, Singapore, Singapore |
+| **웹사이트** | https://www.apbsingapore.com.sg/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-26 03:23:42 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-27 03:28:10 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
