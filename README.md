@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Panther Creek Brews |
-| **유형** | planning |
-| **주소** | None, Christiana, Tennessee |
-| **웹사이트** | http://www.panthercreekbrews.com |
+| **브루어리 이름** | Brevet Brewing Co. |
+| **유형** | micro |
+| **주소** | 18 Translink Drive, Keilor Park, VIC |
+| **웹사이트** | https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-29 03:31:50 (UTC)`  
+⏳ **업데이트 시간**: `2026-04-30 03:32:55 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
