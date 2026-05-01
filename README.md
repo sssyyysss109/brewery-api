@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Brevet Brewing Co. |
+| **브루어리 이름** | Dungarvan Brewing |
 | **유형** | micro |
-| **주소** | 18 Translink Drive, Keilor Park, VIC |
-| **웹사이트** | https://www.thebeerfactory.net.au/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB |
+| **주소** | Unit 5 No. 2, Dungarvan, Waterford |
+| **웹사이트** | https://dungarvanbrewingcompany.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-04-30 03:32:55 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-01 03:43:06 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
