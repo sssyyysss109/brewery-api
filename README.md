@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Dungarvan Brewing |
-| **유형** | micro |
-| **주소** | Unit 5 No. 2, Dungarvan, Waterford |
-| **웹사이트** | https://dungarvanbrewingcompany.com/ |
+| **브루어리 이름** | Lone Peak Brewery |
+| **유형** | brewpub |
+| **주소** | 48 Market Pl, Big Sky, Montana |
+| **웹사이트** | http://www.lonepeakbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-01 03:43:06 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-02 03:18:47 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
