@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lone Peak Brewery |
+| **브루어리 이름** | Tight Lines Pub |
 | **유형** | brewpub |
-| **주소** | 48 Market Pl, Big Sky, Montana |
-| **웹사이트** | http://www.lonepeakbrewery.com |
+| **주소** | 709 Arendell St, Morehead City, North Carolina |
+| **웹사이트** | http://www.tightlinesbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-02 03:18:47 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-03 03:36:16 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
