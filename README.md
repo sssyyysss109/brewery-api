@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Surf Brewery |
-| **유형** | closed |
-| **주소** | 4561 Market St Ste A, Ventura, California |
-| **웹사이트** | http://www.surfbrewery.com |
+| **브루어리 이름** | Bloomington Brewing Co - Production Facility |
+| **유형** | micro |
+| **주소** | 2234 West Industrial Drive, Bloomington, Indiana |
+| **웹사이트** | http://www.bbcbloomington.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-04 03:34:24 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-05 03:21:05 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
