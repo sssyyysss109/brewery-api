@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Bloomington Brewing Co - Production Facility |
+| **브루어리 이름** | Old 99 Brewing Co |
 | **유형** | micro |
-| **주소** | 2234 West Industrial Drive, Bloomington, Indiana |
-| **웹사이트** | http://www.bbcbloomington.com |
+| **주소** | 3750 Hooker Rd Ste A, Roseburg, Oregon |
+| **웹사이트** | http://www.old99brewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-05 03:21:05 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-06 03:31:24 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
