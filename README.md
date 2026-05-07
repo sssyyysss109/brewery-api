@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Old 99 Brewing Co |
-| **유형** | micro |
-| **주소** | 3750 Hooker Rd Ste A, Roseburg, Oregon |
-| **웹사이트** | http://www.old99brewing.com |
+| **브루어리 이름** | Berlin Craft Beer Experience |
+| **유형** | bar |
+| **주소** | Reichenberger Str. 176, Berlin, Berlin |
+| **웹사이트** | http://www.berlincraftbeerexperience.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-06 03:31:24 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-07 03:31:36 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
