@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | 16 Lots Brewing |
-| **유형** | brewpub |
-| **주소** | 753 Reading Rd, Mason, Ohio |
-| **웹사이트** | http://www.16lots.com |
+| **브루어리 이름** | Brouwerij 't IJ |
+| **유형** | regional |
+| **주소** | Funenkade 7, Amsterdam, Noord-Holland |
+| **웹사이트** | https://www.brouwerijhetij.nl/proeflokalen/proeflokaal-de-molen |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-08 03:27:39 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-09 03:26:22 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
