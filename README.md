@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Brouwerij 't IJ |
-| **유형** | regional |
-| **주소** | Funenkade 7, Amsterdam, Noord-Holland |
-| **웹사이트** | https://www.brouwerijhetij.nl/proeflokalen/proeflokaal-de-molen |
+| **브루어리 이름** | Stadin Panimo |
+| **유형** | micro |
+| **주소** | Kaasutehtaankatu 1, Helsinki, Uusimaa |
+| **웹사이트** | https://www.stadinpanimo.fi |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-09 03:26:22 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-10 03:38:43 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
