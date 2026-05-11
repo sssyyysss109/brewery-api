@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Stadin Panimo |
+| **브루어리 이름** | Hops & Grain Brewing |
 | **유형** | micro |
-| **주소** | Kaasutehtaankatu 1, Helsinki, Uusimaa |
-| **웹사이트** | https://www.stadinpanimo.fi |
+| **주소** | 507 Calles St Ste 101, Austin, Texas |
+| **웹사이트** | http://www.hopsandgrain.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-10 03:38:43 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-11 03:52:30 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
