@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Steampunk Brew Works |
+| **브루어리 이름** | Kimito Brewing |
 | **유형** | micro |
-| **주소** | 231 Lamp and Lantern Vlg, Chesterfield, Missouri |
-| **웹사이트** | http://www.steampunkbrewworks.com |
+| **주소** | Hallitie 8, Kemiö, Varsinais-Suomi |
+| **웹사이트** | https://www.kimitobrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-13 03:44:26 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-14 03:42:42 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
