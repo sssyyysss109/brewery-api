@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Kimito Brewing |
-| **유형** | micro |
-| **주소** | Hallitie 8, Kemiö, Varsinais-Suomi |
-| **웹사이트** | https://www.kimitobrewing.com |
+| **브루어리 이름** | Lidl US LLC |
+| **유형** | contract |
+| **주소** | 3500 S Clark St, Arlington, Virginia |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-14 03:42:42 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-15 03:48:16 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
