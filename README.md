@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lidl US LLC |
-| **유형** | contract |
-| **주소** | 3500 S Clark St, Arlington, Virginia |
-| **웹사이트** | None |
+| **브루어리 이름** | Kaweah Brewing Co. |
+| **유형** | micro |
+| **주소** | 1054 E Walnut Ave, Tulare, California |
+| **웹사이트** | http://www.kaweahbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-15 03:48:16 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-16 03:30:52 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
