@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Iron Furnace Brewing |
-| **유형** | micro |
-| **주소** | 115 Main St, Franconia, New Hampshire |
-| **웹사이트** | https://www.ironfurnacebrewing.com/ |
+| **브루어리 이름** | Old Irving Brewing Co. |
+| **유형** | brewpub |
+| **주소** | 4419 W Montrose Ave, Chicago, Illinois |
+| **웹사이트** | http://www.oldirvingbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-18 04:00:44 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-19 03:54:33 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
