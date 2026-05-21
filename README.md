@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Deep Draft Brewing |
-| **유형** | micro |
-| **주소** | 3536 W Belfair Valley Rd, Bremerton, Washington |
-| **웹사이트** | https://www.deepdraftbrew.com/ |
+| **브루어리 이름** | Front Street Brewery - IA |
+| **유형** | brewpub |
+| **주소** | 208 E River Dr, Davenport, Iowa |
+| **웹사이트** | http://www.frontstreetbrew.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-20 03:55:07 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-21 04:03:45 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
