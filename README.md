@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Sanitas Brewing Co - Englewood |
+| **브루어리 이름** | Never Summer Brewing Co |
 | **유형** | micro |
-| **주소** | 200 W Belleview Ave Unit 100, Englewood, Colorado |
-| **웹사이트** | http://www.sanitasbrewing.com/ |
+| **주소** | 62 E Agate Ave, Granby, Colorado |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-23 03:36:08 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-24 03:57:50 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
