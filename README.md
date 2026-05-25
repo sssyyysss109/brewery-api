@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Never Summer Brewing Co |
-| **유형** | micro |
-| **주소** | 62 E Agate Ave, Granby, Colorado |
-| **웹사이트** | None |
+| **브루어리 이름** | Bent River Brewing Co |
+| **유형** | brewpub |
+| **주소** | 1413 5th Ave, Moline, Illinois |
+| **웹사이트** | http://www.bentriverbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-24 03:57:50 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-25 04:09:02 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
