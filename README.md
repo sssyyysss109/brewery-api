@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Bent River Brewing Co |
-| **유형** | brewpub |
-| **주소** | 1413 5th Ave, Moline, Illinois |
-| **웹사이트** | http://www.bentriverbrewing.com |
+| **브루어리 이름** | Dave's Brew Farm |
+| **유형** | closed |
+| **주소** | 2470 Wilson St, Wilson, Wisconsin |
+| **웹사이트** | http://www.brewfarm.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-25 04:09:02 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-26 03:54:45 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
