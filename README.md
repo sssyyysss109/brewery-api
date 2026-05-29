@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Blind Squirrel Brewery |
+| **브루어리 이름** | All Saints Brewing Co |
 | **유형** | micro |
-| **주소** | 4716 South US Highway 19 E Suite B, Plumtree, North Carolina |
-| **웹사이트** | http://www.blindsquirrelbrewery.com |
+| **주소** | 1602 State Route 119, Greensburg, Pennsylvania |
+| **웹사이트** | http://www.allsaintscraftbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-28 03:56:57 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-29 03:58:31 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
