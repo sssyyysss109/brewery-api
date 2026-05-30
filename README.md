@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | All Saints Brewing Co |
+| **브루어리 이름** | Lost Watering Hole |
 | **유형** | micro |
-| **주소** | 1602 State Route 119, Greensburg, Pennsylvania |
-| **웹사이트** | http://www.allsaintscraftbrewing.com |
+| **주소** | 10 The Crescent, Lancefield, VIC |
+| **웹사이트** | https://lostwateringhole.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-05-29 03:58:31 (UTC)`  
+⏳ **업데이트 시간**: `2026-05-30 03:44:30 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
