@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Spezial-Brauerei |
-| **유형** | brewpub |
-| **주소** | 15-17 Hauptstraße, Schierling, Bayern |
-| **웹사이트** | http://www.schierlinger-pils.de |
+| **브루어리 이름** | Frey's Brewing Company |
+| **유형** | micro |
+| **주소** | 8601 Mapleville Rd, Mount Airy, Maryland |
+| **웹사이트** | http://www.freysbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-02 04:18:11 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-03 04:27:26 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
