@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | 3 Beards Beer Company |
-| **유형** | contract |
-| **주소** | 4 Main St, Williamsburg, Massachusetts |
-| **웹사이트** | http://www.3beardsbeer.com |
+| **브루어리 이름** | Josefsbräu |
+| **유형** | brewpub |
+| **주소** | 1s Raiffeisenstraße, Bad Lippspringe, Nordrhein-Westfalen |
+| **웹사이트** | http://www.trink-gutes.de |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-04 04:22:25 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-05 04:05:36 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
