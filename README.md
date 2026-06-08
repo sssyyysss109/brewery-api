@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Tallgrass Taphouse Co |
-| **유형** | brewpub |
-| **주소** | 320 Poyntz Ave, Manhattan, Kansas |
-| **웹사이트** | http://www.tallgrasstaphouse.com |
+| **브루어리 이름** | Grand Teton Brewing Co |
+| **유형** | micro |
+| **주소** | 430 Old Jackson Hwy, Victor, Idaho |
+| **웹사이트** | http://grandtetonbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-07 04:16:01 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-08 04:20:25 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
