@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Grand Teton Brewing Co |
+| **브루어리 이름** | Lolo Peak Brewing Company |
 | **유형** | micro |
-| **주소** | 430 Old Jackson Hwy, Victor, Idaho |
-| **웹사이트** | http://grandtetonbrewing.com |
+| **주소** | 6201 Brewery Way, Lolo, Montana |
+| **웹사이트** | http://www.lolopeakbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-08 04:20:25 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-09 03:51:45 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
