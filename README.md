@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lolo Peak Brewing Company |
-| **유형** | micro |
-| **주소** | 6201 Brewery Way, Lolo, Montana |
-| **웹사이트** | http://www.lolopeakbrewery.com |
+| **브루어리 이름** | Old Boys Brewhouse |
+| **유형** | brewpub |
+| **주소** | 971 W Savidge St, Spring Lake, Michigan |
+| **웹사이트** | http://www.oldboysbrewhouse.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-09 03:51:45 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-10 04:02:38 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
