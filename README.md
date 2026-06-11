@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Old Boys Brewhouse |
-| **유형** | brewpub |
-| **주소** | 971 W Savidge St, Spring Lake, Michigan |
-| **웹사이트** | http://www.oldboysbrewhouse.com |
+| **브루어리 이름** | Penobscot Bay Brewery |
+| **유형** | micro |
+| **주소** | 279 South Main Street, Winterport, Maine |
+| **웹사이트** | http://www.winterportwinery.com/brewery.asp |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-10 04:02:38 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-11 04:16:34 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
