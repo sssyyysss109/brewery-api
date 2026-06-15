@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Feral Brewing Company |
-| **유형** | large |
-| **주소** | 152 Haddrill Road, Baskerville, WA |
-| **웹사이트** | None |
+| **브루어리 이름** | Brues Alehouse Brewing Company |
+| **유형** | brewpub |
+| **주소** | 120 Riverwalk Place, Pueblo, Colorado |
+| **웹사이트** | http://www.bruesalehouse.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-14 04:24:26 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-15 04:47:52 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
