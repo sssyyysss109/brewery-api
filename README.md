@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Café Football |
-| **유형** | bar |
-| **주소** | 920 East Coast Park, Singapore, Singapore |
-| **웹사이트** | None |
+| **브루어리 이름** | Devil’s Hollow Brewery |
+| **유형** | micro |
+| **주소** | None, Dubbo, NSW |
+| **웹사이트** | https://www.devilshollow.com.au/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-17 04:25:26 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-18 04:18:40 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
