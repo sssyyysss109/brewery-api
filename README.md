@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Sasquatch Brewery |
+| **브루어리 이름** | Texas Beer Company |
 | **유형** | micro |
-| **주소** | 2531 NW 30th Ave, Portland, Oregon |
-| **웹사이트** | http://www.sasquatchbrewery.com |
+| **주소** | 1331 W 2nd St, Taylor, Texas |
+| **웹사이트** | http://www.texasbeerco.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-20 04:00:48 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-21 04:42:11 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
