@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Texas Beer Company |
+| **브루어리 이름** | Ruba Brewing |
 | **유형** | micro |
-| **주소** | 1331 W 2nd St, Taylor, Texas |
-| **웹사이트** | http://www.texasbeerco.com |
+| **주소** | 3310 Buttercup St, Houston, Texas |
+| **웹사이트** | https://untappd.com/Ruba_Brewing |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-21 04:42:11 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-22 04:48:03 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
