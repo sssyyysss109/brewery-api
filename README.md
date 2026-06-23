@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Ruba Brewing |
-| **유형** | micro |
-| **주소** | 3310 Buttercup St, Houston, Texas |
-| **웹사이트** | https://untappd.com/Ruba_Brewing |
+| **브루어리 이름** | Fat Head's Brewery |
+| **유형** | regional |
+| **주소** | None, Middleburg Heights, Ohio |
+| **웹사이트** | http://www.fatheads.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-22 04:48:03 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-23 03:52:49 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
