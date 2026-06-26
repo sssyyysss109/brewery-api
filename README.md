@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Triggerfish Brewing |
+| **브루어리 이름** | Spessart |
 | **유형** | brewpub |
-| **주소** | 9 de Beers Avenue, Somerset West, Western Cape |
-| **웹사이트** | https://www.triggerfishbrewing.co.za/ |
+| **주소** | 2 Junkergasse, Kreuzwertheim, Bayern |
+| **웹사이트** | http://www.spessart-specht.de |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-25 03:55:05 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-26 04:01:34 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
