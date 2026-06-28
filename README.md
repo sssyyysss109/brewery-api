@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Elk Ridge Brewing Company |
-| **유형** | micro |
-| **주소** | 320 Main St, Deer Lodge, Montana |
-| **웹사이트** | http://www.elkridgebrewingcompany.com |
+| **브루어리 이름** | Collection Brewing Company |
+| **유형** | planning |
+| **주소** | None, Raleigh, North Carolina |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-27 03:46:36 (UTC)`  
+⏳ **업데이트 시간**: `2026-06-28 04:09:10 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
