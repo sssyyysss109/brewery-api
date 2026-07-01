@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Peter B's Brewpub |
-| **유형** | brewpub |
-| **주소** | 2 Portola Plz Behind The Portola Hotel, Monterey, California |
-| **웹사이트** | http://www.peterbsbrewpub.com |
+| **브루어리 이름** | Beyond the Pale Brewing Company |
+| **유형** | micro |
+| **주소** | 403 Churchill Ave N, Ottawa, Ontario |
+| **웹사이트** | http://beyondthepale.ca |
 
 ---
 
-⏳ **업데이트 시간**: `2026-06-30 03:57:10 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-01 04:12:22 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
