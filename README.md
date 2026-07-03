@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Southern Barrel Brewing Company |
-| **유형** | micro |
-| **주소** | 375 Buckwalter Place Blvd, Bluffton, South Carolina |
-| **웹사이트** | http://www.southernbarrelbrewingco.com |
+| **브루어리 이름** | 플레이그라운드 브루어리(playground Brewery) |
+| **유형** | brewpub |
+| **주소** | 246-13, Isanpo-gil, Goyang-si, Gyeonggido |
+| **웹사이트** | https://www.playgroundbrewery.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-02 03:52:53 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-03 03:35:03 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
