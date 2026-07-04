@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | 플레이그라운드 브루어리(playground Brewery) |
+| **브루어리 이름** | Union Station Brewery |
 | **유형** | brewpub |
-| **주소** | 246-13, Isanpo-gil, Goyang-si, Gyeonggido |
-| **웹사이트** | https://www.playgroundbrewery.com/ |
+| **주소** | 36 Exchange Ter Ste 2, Providence, Rhode Island |
+| **웹사이트** | https://www.unionstationpvd.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-03 03:35:03 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-04 03:28:05 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
