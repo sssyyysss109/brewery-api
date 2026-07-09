@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Brauhaus Schmilka |
+| **브루어리 이름** | Crooked Hammock Brewery |
 | **유형** | brewpub |
-| **주소** | 36 Schmilka, Bad Schandau, Sachsen |
-| **웹사이트** | http://www.brauerei-schmilka.de |
+| **주소** | 36707 Crooked Hammock Way, Lewes, Delaware |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-08 02:57:15 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-09 03:36:04 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
