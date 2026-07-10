@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Crooked Hammock Brewery |
-| **유형** | brewpub |
-| **주소** | 36707 Crooked Hammock Way, Lewes, Delaware |
-| **웹사이트** | None |
+| **브루어리 이름** | Nowhere In Particular Brewing Company |
+| **유형** | proprietor |
+| **주소** | 6826 Loop Rd, Dayton, Ohio |
+| **웹사이트** | http://www.nipbrewco.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-09 03:36:04 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-10 03:38:02 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
