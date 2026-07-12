@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Cabin Boys Brewery |
+| **브루어리 이름** | Flywheel Brewing Company |
 | **유형** | micro |
-| **주소** | 1717 E. 7th Steeet, Tulsa, Oklahoma |
-| **웹사이트** | http://www.cabinboysbrewery.com |
+| **주소** | 218 S Mulberry St Ste 103, Elizabethtown, Kentucky |
+| **웹사이트** | http://www.flywheelbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-11 02:52:44 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-12 03:17:46 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
