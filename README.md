@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Oettinger |
-| **유형** | brewpub |
-| **주소** | 1 Otto-Kollmar-Straße, Oettingen in Bayern, Bayern |
-| **웹사이트** | https://www.oettinger-bier.de/ |
+| **브루어리 이름** | Dorchester Brewing Company |
+| **유형** | micro |
+| **주소** | 1250 Massachusetts Ave, Dorchester, Massachusetts |
+| **웹사이트** | http://www.dorchesterbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-15 02:43:04 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-16 02:49:37 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
