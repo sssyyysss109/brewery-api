@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Thirsty Planet Brewing Co |
+| **브루어리 이름** | Grumpy Old Men Brewing |
 | **유형** | micro |
-| **주소** | 8201 S Congress Ave, Austin, Texas |
-| **웹사이트** | http://www.thirstyplanet.net |
+| **주소** | 1315 E Main St, Blue Ridge, Georgia |
+| **웹사이트** | http://www.grumpyoldmenbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-18 02:44:23 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-19 03:14:26 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
