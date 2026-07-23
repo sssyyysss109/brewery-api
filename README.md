@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Woods Cervecería |
-| **유형** | brewpub |
-| **주소** | 3801 18th St, San Francisco, California |
-| **웹사이트** | http://www.cerveceriasf.com |
+| **브루어리 이름** | Discretion Brewing |
+| **유형** | micro |
+| **주소** | 2703 41st Ave Ste A& # B, Soquel, California |
+| **웹사이트** | http://www.discretionbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-22 02:52:49 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-23 03:14:06 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
