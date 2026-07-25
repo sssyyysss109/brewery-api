@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Local Relic |
-| **유형** | brewpub |
-| **주소** | 320 S Weber St, Colorado Springs, Colorado |
-| **웹사이트** | http://www.localrelic.com |
+| **브루어리 이름** | Dragoon Brewing Co |
+| **유형** | micro |
+| **주소** | 1859 W Grant Rd Ste 111, Tucson, Arizona |
+| **웹사이트** | http://www.dragoonbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-24 02:53:26 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-25 02:52:45 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
