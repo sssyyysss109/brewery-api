@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Redemption Alewerks |
-| **유형** | brewpub |
-| **주소** | 7035 E 96th St Ste K, Indianapolis, Indiana |
-| **웹사이트** | http://www.redemptionalewerks.com |
+| **브루어리 이름** | Cross-Eyed Owl Brewing Co. |
+| **유형** | micro |
+| **주소** | 105 1st Ave NE, Decatur, Alabama |
+| **웹사이트** | http://www.xeobrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-26 03:18:25 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-27 03:28:37 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
