@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Grossen Bart Brewery |
-| **유형** | micro |
-| **주소** | 1025 Delaware Ave Unit A, Longmont, Colorado |
-| **웹사이트** | http://www.grossenbart.com |
+| **브루어리 이름** | Barrel Assembly |
+| **유형** | planning |
+| **주소** | None, Austin, Texas |
+| **웹사이트** | http://www.barrelassembly.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-28 02:45:01 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-29 02:52:08 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
