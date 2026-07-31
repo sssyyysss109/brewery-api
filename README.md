@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Spezial |
-| **유형** | brewpub |
-| **주소** | 10 Obere Königstraße, Bamberg, Bayern |
-| **웹사이트** | http://www.brauerei-spezial.de |
+| **브루어리 이름** | 5770 Brewery |
+| **유형** | micro |
+| **주소** | 303A W Main St, Teutopolis, Illinois |
+| **웹사이트** | http://www.5770brewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-07-30 02:37:07 (UTC)`  
+⏳ **업데이트 시간**: `2026-07-31 03:18:29 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
