@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Kansas City Breweries Company |
-| **유형** | proprietor |
-| **주소** | 12650 S Pflumm Rd Ste 202, Olathe, Kansas |
-| **웹사이트** | http://www.KCLite.com |
+| **브루어리 이름** | Gordon Biersch Brewery Restaurant - Navy Yard |
+| **유형** | closed |
+| **주소** | 100 M St SE, Washington, District of Columbia |
+| **웹사이트** | http://www.gordonbiersch.com/locations/navy-yard?action=view |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-04 02:47:58 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-05 02:45:35 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
