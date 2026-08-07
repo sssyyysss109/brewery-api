@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Prairie Krafts Brewing Company |
-| **유형** | micro |
-| **주소** | 1310 Busch Pkwy, Buffalo Grove, Illinois |
-| **웹사이트** | http://www.prairiekrafts.com |
+| **브루어리 이름** | Lindgren Craft Brewery |
+| **유형** | planning |
+| **주소** | None, Duncannon, Pennsylvania |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-06 02:48:06 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-07 02:47:26 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
