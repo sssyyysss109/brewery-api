@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lindgren Craft Brewery |
-| **유형** | planning |
-| **주소** | None, Duncannon, Pennsylvania |
-| **웹사이트** | None |
+| **브루어리 이름** | New Boswell Brewing Co |
+| **유형** | micro |
+| **주소** | 410 N 10th St, Richmond, Indiana |
+| **웹사이트** | http://www.newboswell.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-07 02:47:26 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-08 01:49:27 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
