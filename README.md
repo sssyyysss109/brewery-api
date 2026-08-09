@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | New Boswell Brewing Co |
+| **브루어리 이름** | Sockeye Brewing Co |
 | **유형** | micro |
-| **주소** | 410 N 10th St, Richmond, Indiana |
-| **웹사이트** | http://www.newboswell.com |
+| **주소** | 12542 W Fairview Ave, Boise, Idaho |
+| **웹사이트** | http://www.sockyebrew.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-08 01:49:27 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-09 01:56:40 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
