@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Roadrunner Abbey Brewing |
-| **유형** | planning |
-| **주소** | None, Chandler, Arizona |
-| **웹사이트** | None |
+| **브루어리 이름** | Amsterdam Brewhouse |
+| **유형** | brewpub |
+| **주소** | 247 Queens Quay W, Toronto, Ontario |
+| **웹사이트** | http://www.amsterdambeer.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-10 02:01:27 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-11 01:56:55 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
