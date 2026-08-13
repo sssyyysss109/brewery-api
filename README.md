@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Noble Creature Cask House |
-| **유형** | brewpub |
-| **주소** | 126 E Rayen Ave, Youngstown, Ohio |
-| **웹사이트** | http://www.noblecreaturebeer.com |
+| **브루어리 이름** | BriarScratch Brewing |
+| **유형** | micro |
+| **주소** | Highway 25, Cottontown, Tennessee |
+| **웹사이트** | http://www.briarscratchbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-12 02:09:33 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-13 02:11:28 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
