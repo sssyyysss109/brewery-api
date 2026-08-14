@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | BriarScratch Brewing |
-| **유형** | micro |
-| **주소** | Highway 25, Cottontown, Tennessee |
-| **웹사이트** | http://www.briarscratchbrewing.com |
+| **브루어리 이름** | Gutsbräu |
+| **유형** | brewpub |
+| **주소** | Scheibe 1, Salzweg, Bayern |
+| **웹사이트** | http://www.gutsbraeu.de |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-13 02:11:28 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-14 02:09:29 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
