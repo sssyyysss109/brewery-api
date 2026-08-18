@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Royale Brewing Company |
-| **유형** | closed |
-| **주소** | 55 NE Farragut St Ste 6, Portland, Oregon |
-| **웹사이트** | http://www.royalebeer.com |
+| **브루어리 이름** | Grand River Brewery |
+| **유형** | planning |
+| **주소** | None, Marshall, Michigan |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-17 01:24:57 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-18 01:21:45 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
