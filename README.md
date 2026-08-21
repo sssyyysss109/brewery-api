@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Brash |
+| **브루어리 이름** | Caledonia Brewing |
 | **유형** | micro |
-| **주소** | 508 W Crosstimbers St, Houston, Texas |
-| **웹사이트** | http://www.brashbeers.com |
+| **주소** | 587 Main St, Dunedin, Florida |
+| **웹사이트** | http://www.caledoniabrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-20 01:22:37 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-21 01:26:48 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
