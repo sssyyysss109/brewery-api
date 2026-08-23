@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Durham Brewing - St. Lawrence Market |
+| **브루어리 이름** | Slieve Bloom Brewing Company |
 | **유형** | micro |
-| **주소** | 91 Front Street East, Toronto, Ontario |
-| **웹사이트** | https://cestwhat.com/ |
+| **주소** | Main Street, Kinnitty, Offaly |
+| **웹사이트** | https://slievebloombrewing.com/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-22 01:22:03 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-23 01:35:25 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
