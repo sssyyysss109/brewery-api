@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Slieve Bloom Brewing Company |
+| **브루어리 이름** | Midnight Brewery |
 | **유형** | micro |
-| **주소** | Main Street, Kinnitty, Offaly |
-| **웹사이트** | https://slievebloombrewing.com/ |
+| **주소** | 2410 Granite Ridge Rd Ste B, Rockville, Virginia |
+| **웹사이트** | http://www.midnight-brewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-23 01:35:25 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-24 01:26:50 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
