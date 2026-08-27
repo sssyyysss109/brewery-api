@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Gebrouwen Door Vrouwen |
-| **유형** | micro |
-| **주소** | Jan Pieter Heijestraat 119D, Amsterdam, Noord-Holland |
-| **웹사이트** | https://www.gebrouwendoorvrouwen.nl/de-bar |
+| **브루어리 이름** | OddPitch Brewing Co. |
+| **유형** | planning |
+| **주소** | None, Missoula, Montana |
+| **웹사이트** | http://www.oddpitch.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-26 01:27:14 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-27 08:18:34 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
