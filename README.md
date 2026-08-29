@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Brasserie Boemvol |
+| **브루어리 이름** | Dead Bird Brewing Company |
 | **유형** | micro |
-| **주소** | 25 Rue Henri Maus, Bruxelles, Brussels Capital Region |
-| **웹사이트** | https://www.90folies.com/boemvol |
+| **주소** | 1726 N 5th St, Milwaukee, Wisconsin |
+| **웹사이트** | http://www.deadbirdbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-28 10:19:54 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-29 06:19:38 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
