@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Catawba Brewing Co |
-| **유형** | regional |
-| **주소** | 212 S Green St, Morganton, North Carolina |
-| **웹사이트** | http://www.CatawbaBrewing.com |
+| **브루어리 이름** | Workshop Brewing Co |
+| **유형** | brewpub |
+| **주소** | 221 Garland St Ste A, Traverse City, Michigan |
+| **웹사이트** | http://www.traversecityworkshop.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-30 04:29:06 (UTC)`  
+⏳ **업데이트 시간**: `2026-08-31 04:33:38 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
