@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Workshop Brewing Co |
-| **유형** | brewpub |
-| **주소** | 221 Garland St Ste A, Traverse City, Michigan |
-| **웹사이트** | http://www.traversecityworkshop.com |
+| **브루어리 이름** | Mill City Brew Werks |
+| **유형** | closed |
+| **주소** | 339 NE Cedar St, Camas, Washington |
+| **웹사이트** | http://www.mcbwbeer.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-08-31 04:33:38 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-01 04:15:43 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
