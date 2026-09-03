@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | King Tide Brewing |
+| **브루어리 이름** | Chestnut Brew Works |
 | **유형** | micro |
-| **주소** | 1 Studio Lane, Coffs Harbour, NSW |
-| **웹사이트** | http://kingtidebrewing.com.au/ |
+| **주소** | 444 Brockway Ave, Morgantown, West Virginia |
+| **웹사이트** | http://www.chestnutbrewworks.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-02 03:38:19 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-03 03:38:05 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
