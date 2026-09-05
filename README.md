@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Main Street Brewing Inc/Turonis Pizza |
-| **유형** | brewpub |
-| **주소** | 408 N Main St, Evansville, Indiana |
-| **웹사이트** | None |
+| **브루어리 이름** | Yellow Sun Brewing Company |
+| **유형** | micro |
+| **주소** | 127 Trade St, Rutherfordton, North Carolina |
+| **웹사이트** | http://www.yellowsunbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-04 03:38:15 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-05 03:38:13 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
