@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Golden Avalanche Brewing Co |
-| **유형** | brewpub |
-| **주소** | 272 W Main St, Kutztown, Pennsylvania |
-| **웹사이트** | http://www.kutztowntavern.com/GoldenAvalancheBrewery |
+| **브루어리 이름** | Sun King Brewery |
+| **유형** | micro |
+| **주소** | 7848 E 96th St, Fishers, Indiana |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-09 03:49:20 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-10 03:48:43 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
