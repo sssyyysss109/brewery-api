@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Sun King Brewery |
+| **브루어리 이름** | Decadent Ales |
 | **유형** | micro |
-| **주소** | 7848 E 96th St, Fishers, Indiana |
-| **웹사이트** | None |
+| **주소** | 607A E Boston Post Rd, Mamaroneck, New York |
+| **웹사이트** | http://www.decadentales.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-10 03:48:43 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-11 03:45:06 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
