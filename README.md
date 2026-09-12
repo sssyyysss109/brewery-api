@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Decadent Ales |
-| **유형** | micro |
-| **주소** | 607A E Boston Post Rd, Mamaroneck, New York |
-| **웹사이트** | http://www.decadentales.com |
+| **브루어리 이름** | Bent River Brewing Co |
+| **유형** | brewpub |
+| **주소** | 1413 5th Ave, Moline, Illinois |
+| **웹사이트** | http://www.bentriverbrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-11 03:45:06 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-12 03:48:32 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
