@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Bent River Brewing Co |
-| **유형** | brewpub |
-| **주소** | 1413 5th Ave, Moline, Illinois |
-| **웹사이트** | http://www.bentriverbrewing.com |
+| **브루어리 이름** | Mountain State Brewing Co |
+| **유형** | micro |
+| **주소** | 1 Nelson Blvd, Thomas, West Virginia |
+| **웹사이트** | http://www.mountainstatebrewing.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-12 03:48:32 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-13 03:56:46 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
