@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Mountain State Brewing Co |
+| **브루어리 이름** | Browar Świdnica |
 | **유형** | micro |
-| **주소** | 1 Nelson Blvd, Thomas, West Virginia |
-| **웹사이트** | http://www.mountainstatebrewing.com |
+| **주소** | Bystrzycka 28B, Świdnica, dolnośląskie |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-13 03:56:46 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-14 04:04:02 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
