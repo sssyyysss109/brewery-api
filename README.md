@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Granite City Food & Brewery (#2) |
+| **브루어리 이름** | Rathausbräu |
 | **유형** | brewpub |
-| **주소** | 2620 S Louise Ave, Sioux Falls, South Dakota |
-| **웹사이트** | http://www.gcfb.net |
+| **주소** | Mauerstraße 1, Michelstadt, Hessen |
+| **웹사이트** | http://www.rathausbraeu.de |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-15 04:03:02 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-16 04:00:19 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
