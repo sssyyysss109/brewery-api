@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Bog Turtle Brewery |
-| **유형** | closed |
-| **주소** | 10 East Main Street, Rising Sun, Maryland |
-| **웹사이트** | http://www.bogturtlebrewery.com/ |
+| **브루어리 이름** | Reh |
+| **유형** | brewpub |
+| **주소** | Ellertalstraße 36, Litzendorf, Bayern |
+| **웹사이트** | http://www.reh-bier.de |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-17 04:06:50 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-18 03:52:48 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
