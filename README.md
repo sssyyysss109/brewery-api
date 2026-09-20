@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Xarlie |
+| **브루어리 이름** | Landshuter Brauhaus |
 | **유형** | brewpub |
-| **주소** | IC2 ­ Lagoa, Colmeias, Leiria |
-| **웹사이트** | https://xarlie.pt |
+| **주소** | Opalstraße 60, Altdorf, Bayern |
+| **웹사이트** | http://www.landshuter-brauhaus.de |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-19 03:49:47 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-20 04:06:16 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
