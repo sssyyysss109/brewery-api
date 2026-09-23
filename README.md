@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Slab |
-| **유형** | micro |
-| **주소** | 107 Newton Street, Mount Maunganui, Bay of Plenty Region |
-| **웹사이트** | https://www.mountbrewingco.com/ |
+| **브루어리 이름** | Karmeliten |
+| **유형** | brewpub |
+| **주소** | Senefelderstraße 21, Straubing, Bayern |
+| **웹사이트** | http://www.karmeliten-brauerei.de |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-22 04:00:33 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-23 03:57:53 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
