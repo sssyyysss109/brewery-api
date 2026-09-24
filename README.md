@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Karmeliten |
-| **유형** | brewpub |
-| **주소** | Senefelderstraße 21, Straubing, Bayern |
-| **웹사이트** | http://www.karmeliten-brauerei.de |
+| **브루어리 이름** | Rock & Run Brewery |
+| **유형** | closed |
+| **주소** | 110 E Kansas St, Liberty, Missouri |
+| **웹사이트** | http://www.rockandrunbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-23 03:57:53 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-24 03:51:43 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
