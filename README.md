@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Rock & Run Brewery |
-| **유형** | closed |
-| **주소** | 110 E Kansas St, Liberty, Missouri |
-| **웹사이트** | http://www.rockandrunbrewery.com |
+| **브루어리 이름** | Brouwerij De Kroon |
+| **유형** | micro |
+| **주소** | 20 Beekstraat, Huldenberg, Vlaanderen |
+| **웹사이트** | http://www.dekroonneerijse.be/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-24 03:51:43 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-25 04:06:40 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
