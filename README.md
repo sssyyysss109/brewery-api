@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Brouwerij De Kroon |
+| **브루어리 이름** | Highland Brew |
 | **유형** | micro |
-| **주소** | 20 Beekstraat, Huldenberg, Vlaanderen |
-| **웹사이트** | http://www.dekroonneerijse.be/ |
+| **주소** | Moolmanshoek, Fouriesburg, Free State |
+| **웹사이트** | https://moolmanshoek.co.za/activities/highland-brew/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-25 04:06:40 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-26 04:11:40 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
