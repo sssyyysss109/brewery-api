@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Highland Brew |
-| **유형** | micro |
-| **주소** | Moolmanshoek, Fouriesburg, Free State |
-| **웹사이트** | https://moolmanshoek.co.za/activities/highland-brew/ |
+| **브루어리 이름** | Two Bandits Brewing Company |
+| **유형** | brewpub |
+| **주소** | 106 E High St, Hicksville, Ohio |
+| **웹사이트** | None |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-26 04:11:40 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-27 04:26:45 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
