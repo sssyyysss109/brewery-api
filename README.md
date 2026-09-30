@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Klosterbräu |
-| **유형** | brewpub |
-| **주소** | Obere Mühlbrücke 1-3, Bamberg, Bayern |
-| **웹사이트** | http://www.klosterbraeu.de |
+| **브루어리 이름** | Woodbine Farm Brewery |
+| **유형** | planning |
+| **주소** | None, Manassas, Virginia |
+| **웹사이트** | http://Woodbinefarmandbrewery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-29 04:57:58 (UTC)`  
+⏳ **업데이트 시간**: `2026-09-30 04:43:56 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
