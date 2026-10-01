@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Woodbine Farm Brewery |
-| **유형** | planning |
-| **주소** | None, Manassas, Virginia |
-| **웹사이트** | http://Woodbinefarmandbrewery.com |
+| **브루어리 이름** | Neon Groundhog Brewery - Majestic Oak Winery |
+| **유형** | micro |
+| **주소** | 13554 Mohler Rd, Grand Rapids, Ohio |
+| **웹사이트** | http://www.majesticoakwinery.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-09-30 04:43:56 (UTC)`  
+⏳ **업데이트 시간**: `2026-10-01 04:56:14 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
