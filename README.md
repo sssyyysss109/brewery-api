@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Neon Groundhog Brewery - Majestic Oak Winery |
+| **브루어리 이름** | Brouwerij De Brabandere |
 | **유형** | micro |
-| **주소** | 13554 Mohler Rd, Grand Rapids, Ohio |
-| **웹사이트** | http://www.majesticoakwinery.com |
+| **주소** | 33 Rijksweg, Harelbeke, Vlaanderen |
+| **웹사이트** | http://www.brouwerijdebrabandere.be/ |
 
 ---
 
-⏳ **업데이트 시간**: `2026-10-01 04:56:14 (UTC)`  
+⏳ **업데이트 시간**: `2026-10-02 04:46:33 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
