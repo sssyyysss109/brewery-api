@@ -9,13 +9,13 @@
 
 | 🍻 항목 | 📌 정보 |
 |--------|---------|
-| **브루어리 이름** | Lazy Monk Brewing |
-| **유형** | micro |
-| **주소** | 320 Putnam St Unit 4, Eau Claire, Wisconsin |
-| **웹사이트** | http://www.lazymonkbrewing.com |
+| **브루어리 이름** | Mad Duck Craft Brewing Company |
+| **유형** | brewpub |
+| **주소** | 3085 E Campus Pointe Dr, Fresno, California |
+| **웹사이트** | http://www.madduckcraft.com |
 
 ---
 
-⏳ **업데이트 시간**: `2026-10-04 04:59:58 (UTC)`  
+⏳ **업데이트 시간**: `2026-10-05 04:46:54 (UTC)`  
 
 > ⚡ 이 페이지는 자동 업데이트 봇에 의해 관리됩니다.
